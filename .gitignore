@@ -1,3 +1,5 @@
 .venv/
 jsons/
 htmls/
+raw/
+transformed/
