@@ -3,6 +3,7 @@ import json
 import os
 import csv
 import requests
+import datetime
 from bs4 import BeautifulSoup
 
 # 문제점
@@ -27,6 +28,13 @@ response = requests.post(
 
 filename = 'sothebys.json'
 
+def unix2date(unix_time):
+    if unix_time > 10**10: 
+        unix_time = unix_time / 1000
+        
+    date_time = datetime.datetime.fromtimestamp(unix_time)
+    return date_time
+
 def extract_detail_sothebys(filename):
     current_dir = os.path.dirname(os.path.abspath(__file__))
     json_fp = os.path.join(current_dir, "..", "data", filename)
@@ -49,7 +57,7 @@ def extract_detail_sothebys(filename):
           estimateCurrency = item["estimateCurrency"]
           url = item["url"]
           artist = item["artists"][0]
-          end_date = item["details"].split('|')[0].strip()
+          end_date = unix2date(int(item["endDate"]))
         except IndexError:
             pass
         except AttributeError:
