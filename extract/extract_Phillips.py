@@ -69,8 +69,8 @@ def fetch_detail_info(detail_url):
     if additional_info_elem:
         additional_info_text = additional_info_elem.get_text(separator=" ").strip()
 
-        # 제작 연도 추출 (예: Painted in 1989.)
-        year_match = re.search(r"Painted in (\d{4})", additional_info_text)
+        # 제작 연도 추출 (4자리 숫자 탐색)
+        year_match = re.search(r"(\b\d{4}\b)", additional_info_text)
         if year_match:
             detail_info["year"] = int(year_match.group(1))
 
@@ -93,7 +93,6 @@ def fetch_detail_info(detail_url):
     return detail_info
 
     
-
 def fetch_lots():
     """경매 데이터를 가져오는 함수"""
     auction_site = "Phillips"
@@ -128,35 +127,44 @@ def fetch_lots():
             for item in data.get("data", []):
                 detail_url = item.get("detailLink", "No URL")
 
+                # 비정상적 경매 종료 시간 처리
+                auction_start = item.get("auctionStartDateTimeOffset", "0001-01-01T00:00:00")
+                auction_end = item.get("auctionEndDateTimeOffset", "0001-01-01T00:00:00")
+                if "0001" in auction_end:
+                    if "0001" in auction_start:
+                        continue  # 시작, 종료 모두 0001년이면 데이터 제외
+                    auction_end = auction_start  # 비정상적인 종료 시간을 시작 시간으로 대체
+
+                # 비정상적 경매가격 처리
+                price = item.get("hammerPlusBP", 0)
+                if price == 0.0:
+                    price = None
+
                 # 각 필드에서 필요한 데이터 추출
+                # transform에서 거래 날자 형변환, 예상/실제 낙찰가 단위 변환 필요
                 lot_info = {
-                    "artist": item.get("makerName", "Unknown Artist"),  # 작가 이름
-                    "title": item.get("description", "No Title"),  # 작품명
-                    "auction_start_date": item.get("auctionStartDateTimeOffset", "Unknown Date"),  # 경매 종료 날짜
-                    "auction_end_date": item.get("auctionEndDateTimeOffset", "Unknown Date"),  # 경매 종료 날짜
-                    "low_estimate": item.get("lowEstimate", 0),  # 예상 최저가
-                    "high_estimate": item.get("highEstimate", 0),  # 예상 최고가
-                    "final_price": item.get("hammerPlusBP", 0),  # 낙찰 가격
+                    "artist": item.get("makerName", "Unknown Artist"),
+                    "title": item.get("description", "No Title"),
+                    "start_date": auction_start,
+                    "end_date": auction_end,
+                    "low_estimate": item.get("lowEstimate", 0),
+                    "high_estimate": item.get("highEstimate", 0),
+                    "price": price,
                     "auction_site": auction_site,
-                    "year": None,  # 디테일 페이지에서 가져올 정보 - None
+                    "year": None,
                     "artwork_type": None,
                     "edition": None,
                     "height_cm": None,
                     "width_cm": None,
-                    "currency": item.get("currencySign", ""),  # 통화 기호 (£, $, € 등)
-                    "detail_url": detail_url,  # 경매 상세 페이지 URL
-                    "image_url": f"https://www.phillips.com{item.get('imagePath', '')}"  # 전체 이미지 URL 변환 - 수정필요(링크 안됨)
+                    "currency": item.get("currencySign", ""), #화폐 단위
                 }
-                # 상세 페이지에서 추가 정보 가져오기
+                
                 detail_data = fetch_detail_info(detail_url)
                 lot_info.update(detail_data)
 
                 auction_data.append(lot_info)
 
-            # 다음 페이지로 이동
             page += 1
-
-            # 모든 페이지를 다 가져왔으면 루프 종료
             if page > total_pages:
                 break
         else:
@@ -168,7 +176,7 @@ def fetch_lots():
 auction_results = fetch_lots()
 
 # JSON 파일로 저장 (파일명에 작가 ID 포함)
-json_filename = f"phillips_auction_results_{MAKER_ID}.json"
+json_filename = f"./data/phillips_auction_results_{MAKER_ID}.json"
 with open(json_filename, "w", encoding="utf-8") as file:
     json.dump(auction_results, file, indent=4, ensure_ascii=False)  # JSON 저장 (가독성 위해 indent=4)
 
