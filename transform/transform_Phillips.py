@@ -1,11 +1,14 @@
 import pandas as pd
-from datetime import datetime, timedelta
+from datetime import datetime
 import json
 import yfinance as yf
 
 
 # JSON 파일 로드
-json_filename = "./data/phillips_auction_results_6740.json"
+# Picasso - 10800
+# Luc Tuymans - 6740
+MAKER_ID = 10800
+json_filename = f"./data/phillips_auction_results_{MAKER_ID}.json"
 with open(json_filename, "r", encoding="utf-8") as file:
     auction_data = json.load(file)
 
@@ -63,7 +66,6 @@ def get_usd_exchange_rate(date_str, currency):
     #     print(f"⚠️ {date} is before 2003. No exchange rate available.")
     #     return None
 
-
     # 캐시에 데이터가 없으면 None 반환
     if ticker not in exchange_rate_cache:
         return None
@@ -80,6 +82,9 @@ def get_usd_exchange_rate(date_str, currency):
 # 날짜 변환
 df["start_date"] = pd.to_datetime(df["start_date"], utc=True).dt.strftime("%Y-%m-%dT%H:%M:%S")
 df["end_date"] = pd.to_datetime(df["end_date"], utc=True).dt.strftime("%Y-%m-%dT%H:%M:%S")
+
+#---------------그림이 아닌 작품 삭제------------------#
+df = df[~df['artwork_type'].isin(['earthenware', 'ceramic', 'plate'])]
 
 #------------------통화 단위 변환--------------------#
 # 환율 컬럼 추가, 통화에 맞는 해당 날짜 환율로 채움
@@ -103,8 +108,7 @@ df[["low_estimate_USD", "high_estimate_USD", "price_USD"]] = df[
 df.drop(columns=["exchange_rate"], inplace=True)
 
 #----------------Transform 데이터 저장----------------#
-transformed_json_filename = "./data/phillips_auction_results_transformed_6740.json"
-df.to_json(transformed_json_filename, orient="records", indent=4, force_ascii=False)
+transformed_csv_filename = f"./data/phillips_auction_results_transformed_{MAKER_ID}.csv"
+df.to_csv(transformed_csv_filename, index=False, encoding="utf-8-sig")
 
-
-print(f"✅ Transform 완료, 저장된 파일: {transformed_json_filename}")
+print(f"✅ Transform 완료, 저장된 파일: {transformed_csv_filename}")
