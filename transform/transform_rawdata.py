@@ -4,6 +4,9 @@ import csv
 import re
 from datetime import datetime
 
+from bs4 import BeautifulSoup
+import requests
+
 
 def unix2date(unix_time):
     if unix_time > 10**10: 
@@ -75,6 +78,20 @@ def transform_rawdata(filename):
                 # except AttributeError:
                 #     end_date = None
 
+                if artwork_type == None :
+                    response = requests.get(item["url"])
+                    if response.status_code == 200:
+                        html = response.text 
+                        soup = BeautifulSoup(html, 'html.parser')
+            
+                        try : 
+                            match = re.search(r'\b(' + keywords + r')\b', soup.find("li", "LotPage-medium").text , re.IGNORECASE)
+
+                            if match:
+                                artwork_type = match.group(1)
+                        except :
+                            pass
+
                 auction_data.append({
                     "artist" : artist,
                     "title" : title,
@@ -90,6 +107,7 @@ def transform_rawdata(filename):
                     "width_cm" : width,
                     "estimateCurrency" : estimateCurrency
                 })
+
 
     json_fp = os.path.join(current_dir, "..", "data", "sothbys_picaaso_last.csv")
     with open(json_fp, mode='w',newline='', encoding='utf-8') as file:
