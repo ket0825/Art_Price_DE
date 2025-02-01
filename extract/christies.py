@@ -4,7 +4,7 @@ import os
 import uuid
 from typing import Optional
 
-def christies_get_history_lots(base_path, artist, page:int, sortby, tab) -> Optional[int]:
+def christies_get_history_lots(base_path, artist, page:int, sortby, tab, filterids) -> Optional[int]:
     # 자동으로 저장할 파일 경로가 결정됩니다.
     # dir 만들기
     if base_path[-1] != '/':
@@ -42,7 +42,7 @@ def christies_get_history_lots(base_path, artist, page:int, sortby, tab) -> Opti
         'geocountrycode': 'KR',
         'show_on_loan': 'true',
         'datasourceId': '182f8bb2-d729-4a38-b539-7cf1a901cf2e',
-        "filterids": "|CoaCategoryValues{Paintings}|CoaCategoryValues{Drawings+%26+Watercolors}|",
+        "filterids": filterids,
         # 추후에 filterids는 예술작품에 한하여 계속 추가해야 함.
     }
 
@@ -71,14 +71,33 @@ def christies_get_history_lots(base_path, artist, page:int, sortby, tab) -> Opti
     raise Exception(f"status_code: {response.status_code}")
 
 if __name__ == '__main__':
+    # luc tuymans
+    # base_path = 'jsons/'
+    # artist = 'luc tuymans'
+    # sortby = 'date'
+    # tab = 'True' # sold_lots라는 뜻. available이면 False
+    # filterids = "|CoaCategoryValues{Paintings}|CoaCategoryValues{Drawings+%26+Watercolors}|"
+    
     base_path = 'jsons/'
-    artist = 'luc tuymans'
+    artist = "Pablo Picasso"
     sortby = 'date'
-    tab = 'True' # sold_lots라는 뜻. available이면 False
-
+    tab = "True"
+    filterids = "|CoaArtistValues{Pablo+Picasso}|CoaCategoryValues{Paintings}|CoaCategoryValues{Drawings+%26+Watercolors}|"
+    # 쿼리 문자열 매개변수
+    # keyword: Pablo picasso
+    # page: 1
+    # is_past_lots: True
+    # sortby: date
+    # filterids: |CoaArtistValues{Pablo+Picasso}|CoaCategoryValues{Paintings}|CoaCategoryValues{Drawings+%26+Watercolors}|
+    # language: en
+    # geocountrycode: KR
+    # show_on_loan: true
+    # datasourceId: 182f8bb2-d729-4a38-b539-7cf1a901cf2e
     # get search metadata 필요할수도.
-    total_page = christies_get_history_lots(base_path, artist, 1, sortby, tab)
+    
+    total_page = christies_get_history_lots(base_path, artist, 1, sortby, tab, filterids)
 
     for i in range(2, total_page+1):
-        christies_get_history_lots(base_path, artist, i, sortby, tab)
+        print(f"Processing page {i}...")
+        christies_get_history_lots(base_path, artist, i, sortby, tab, filterids)
     

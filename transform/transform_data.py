@@ -20,6 +20,9 @@ def convert_price_to_usd(price: str, end_date) -> float:
     Convert price to USD at the exchange rate on the end date.
     현재 지원: EUR, GBP
     """
+    if not price:
+        return None
+    
     currency, price_str = price.split(" ")
     price_int = int(price_str.replace(",", ""))
     if currency == "USD":
@@ -105,10 +108,13 @@ def parse_artwork_type(desc: str) -> str:
     # TODO: 더 추가하긴 해야 함. 이거 없으면 아예 제외해야 할듯.
     # 사실 여러 속성이 들어갈 수 있음.
     # 프랑스어인 경우도 존재함. 이후 추론해야 할 듯.
-    types = re.findall(r'<br>\s*(.*?(?:oil|watercolour|watercolor|lithograph|screenprint|graphite|ink|silkscreen|gouache|acrylic|pencil|paper|board|panel|canvas).*?)<br>', desc, re.I)
+    types = re.findall(r'<br>\s*(.*?(?:oil|watercolour|watercolor|lithograph|screenprint|graphite|ink|silkscreen|gouache|acrylic|pencil|paper|board|panel|canvas|pastel|crayon|pen|linoleum).*?)<br>', desc, re.I)
     if types:
         return types[0].strip()
-    print("check here: ", desc)
+    french_types = re.findall(r'<br>\s*(.*?(?:huile|aquarelle|plume|encre|papier|toile|carton|panneau|pastel|crayon|stylo|linoléum).*?)<br>', desc, re.I)
+    if french_types:
+        return french_types[0].strip()
+    print("NO artwork type: ", desc)
     return "Unknown"
 
 def parse_edition_info(desc: str) -> Optional[str]:
@@ -126,13 +132,13 @@ def parse_year(desc: str) -> Optional[str]:
     """Extract creation year from description."""
     # Look for patterns like "Executed in 1994" or "Painted in 2001"
     # 프랑스어 등 다른 언어도 존재함. 이러면 찾기 어려움
-    year_pattern = r'(?:executed|painted)\s+in\s+(\d{4})' # <i>circa</i> 도 존재.
+    year_pattern = r'(?:executed|painted|drawn)\s+[in|on](?:[,\s\w]+)?(\d{4})'
     match = re.search(year_pattern, desc)
     if match:
         return match.group(1)
         
     # Also check for year patterns in quotes with apostrophes
-    alt_year_pattern = r"'(\d{2})'" # ex '90'
+    alt_year_pattern = r"(\d{2})'" # ex 90'
     match = re.search(alt_year_pattern, desc)
     if match:
         year = int(match.group(1))
@@ -140,6 +146,21 @@ def parse_year(desc: str) -> Optional[str]:
         if year < 50:  # Assuming years 00-49 are 2000s
             return f"20{year:02d}"
         return f"19{year:02d}"
+
+    alt_year_pattern2 = r"(\d{4})'" # ex 1990'
+    match = re.search(alt_year_pattern2, desc)
+    if match:
+        return match.group(1)
+    
+    circa_year_pattern = r'circa(?:\s*</i>)?\s*(\d{4})'
+    match = re.search(circa_year_pattern, desc)
+    if match:
+        return match.group(1)
+    
+    space_year_pattern = r'(\d{4})\s*<br>'
+    match = re.search(space_year_pattern, desc)
+    if match:
+        return match.group(1)
     
     print("연도를 찾을 수 없습니다: ", desc)
     return None
@@ -194,7 +215,54 @@ def transform_data(artist, data: Dict) -> List:
     # TODO: artwork type도 여기서 확인하고 추가할 수 있음.
 
     # 데이터 파싱
-    for lot in data["lots"]:        
+    count = 0
+    for lot in data["lots"]:
+        # printing 제외
+        description = lot['description_txt'].lower()
+        if (
+            "print" in description
+            or 'linocut' in description
+            or 'aquatint' in description
+            or 'drypoint' in description
+            or 'etching' in description
+            or 'engraving' in description
+            or 'engrave' in description
+            or 'lithograph' in description
+            or 'earthenware' in description
+            or 'ceramic' in description
+            or 'plate' in description
+            or 'tile' in description
+            or 'engobe' in description
+            or 'slip' in description
+            or 'plaque' in description  # 도자기 혹은 조각판
+            or 'terracotta' in description # 구운 흙
+
+            # 태피스트리
+            or 'tapestry' in description
+            or 'tapisserie' in description
+
+            # 가죽
+            or 'patina' in description
+
+            # 프랑스어
+            or 'gravure' in description      # print의 프랑스어
+            or 'linogravure' in description  # linocut
+            or 'aquatinte' in description    # aquatint
+            or 'pointe sèche' in description # drypoint
+            or 'eau-forte' in description    # etching
+            or 'taille-douce' in description # engraving
+            or 'lithographie' in description # lithograph
+            or 'faïence' in description      # earthenware
+            or 'céramique' in description    # ceramic
+            or 'assiette' in description     # plate
+            or 'carreau' in description      # tile
+            or 'glisser' in description      # 도자기 기법
+            or 'terre cuite' in description  # terracotta
+            ):
+            count += 1
+            print("skip: ", count)
+            continue
+
         # 작가명
         artist = artist
         # 거래 마감 날짜:
@@ -249,9 +317,11 @@ def transform_main(base_dir, artist):
     return transformed_data
 
 if __name__ == '__main__':
+    # base_dir = "jsons"
+    # artist = "Luc Tuymans"
     base_dir = "jsons"
-    artist = "Luc Tuymans"
+    artist = "Pablo_Picasso"
     transformed_data = transform_main(base_dir, artist)
 
-    output_dir = "transformed"
+    output_dir = "transformed2"
     save_json(transformed_data, output_dir, artist)

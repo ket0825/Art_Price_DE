@@ -3,3 +3,6 @@ jsons/
 htmls/
 raw/
 transformed/
+csv/
+transformed2/
+.DS_Store
