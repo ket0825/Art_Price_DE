@@ -1,0 +1,817 @@
+[
+  {
+    "results": [
+      {
+        "hits": [],
+        "nbHits": 0,
+        "page": 21,
+        "nbPages": 0,
+        "hitsPerPage": 51,
+        "exhaustiveFacetsCount": true,
+        "exhaustiveNbHits": true,
+        "exhaustiveTypo": true,
+        "exhaustive": {
+          "facetsCount": true,
+          "nbHits": true,
+          "typo": true
+        },
+        "processingTimeMS": 1,
+        "message": "you can only fetch the 1000 hits for this query. You can extend the number of hits returned via the paginationLimitedTo index parameter or use the browse method. You can read our FAQ for more details about browsing: https://www.algolia.com/doc/guides/sending-and-managing-data/manage-your-indices/how-to/export-an-algolia-index/#exporting-the-index-using-an-api-client",
+        "query": "pablo picasso",
+        "params": "highlightPreTag=%3Cais-highlight-0000000000%3E&highlightPostTag=%3C%2Fais-highlight-0000000000%3E&clickAnalytics=true&hitsPerPage=51&filters=type%3A%22Bid%22%20OR%20type%3A%22Buy%20Now%22%20OR%20type%3A%22Lot%22%20OR%20type%3A%22Private%20Sale%22%20OR%20type%3A%22Retail%22&query=pablo%20picasso&maxValuesPerFacet=9999&page=21&facets=%5B%22type%22%2C%22endDate%22%2C%22lowEstimate%22%2C%22highEstimate%22%2C%22artists%22%2C%22departments%22%5D&tagFilters=&facetFilters=%5B%5B%22departments%3A19th%20Century%20European%20Paintings%22%2C%22departments%3AImpressionist%20%26%20Modern%20Art%22%2C%22departments%3AContemporary%20Art%22%2C%22departments%3AAfrican%20%26%20Oceanic%20Art%22%2C%22departments%3AOld%20Master%20Paintings%22%5D%5D",
+        "index": "bsp_dotcom_prod_en",
+        "queryID": "4dadc5e75860bdff28368e9396c87379",
+        "renderingContent": {}
+      },
+      {
+        "hits": [
+          {
+            "objectID": "00000192-9b4a-d626-a99e-ff4f9abb0000"
+          }
+        ],
+        "nbHits": 13228,
+        "nbSortedHits": 1000,
+        "page": 21,
+        "nbPages": 1000,
+        "hitsPerPage": 1,
+        "facets": {
+          "departments": {
+            "Prints": 8190,
+            "Impressionist & Modern Art": 3946,
+            "Books & Manuscripts": 509,
+            "20th Century Design": 79,
+            "Contemporary Art": 75,
+            "Photographs": 48,
+            "House Sales & Private Collections": 10,
+            "French & Continental Furniture": 7,
+            "19th Century European Paintings": 3,
+            "Old Master Paintings": 3,
+            "Special Projects": 3,
+            "African & Oceanic Art": 2,
+            "Jewelry": 2,
+            "Modern British & Irish Art": 2,
+            "Wine & Spirits": 2,
+            "American Furniture, Decorative Art & Folk Art": 1,
+            "English Furniture": 1,
+            "European Sculpture & Works of Art": 1,
+            "Indian, Himalayan & Southeast Asian Art": 1,
+            "Russian Art": 1
+          }
+        },
+        "exhaustiveFacetsCount": true,
+        "exhaustiveNbHits": false,
+        "exhaustiveTypo": false,
+        "exhaustive": {
+          "facetsCount": true,
+          "nbHits": false,
+          "typo": false
+        },
+        "query": "pablo picasso",
+        "params": "highlightPreTag=%3Cais-highlight-0000000000%3E&highlightPostTag=%3C%2Fais-highlight-0000000000%3E&clickAnalytics=false&hitsPerPage=1&filters=type%3A%22Bid%22%20OR%20type%3A%22Buy%20Now%22%20OR%20type%3A%22Lot%22%20OR%20type%3A%22Private%20Sale%22%20OR%20type%3A%22Retail%22&query=pablo%20picasso&maxValuesPerFacet=9999&page=21&attributesToRetrieve=%5B%5D&attributesToHighlight=%5B%5D&attributesToSnippet=%5B%5D&tagFilters=&analytics=false&facets=departments",
+        "index": "bsp_dotcom_prod_en",
+        "appliedRelevancyStrictness": 100,
+        "renderingContent": {},
+        "processingTimeMS": 40,
+        "processingTimingsMS": {
+          "_request": {
+            "roundTrip": 198
+          },
+          "afterFetch": {
+            "merge": {
+              "mergeLoop": {
+                "total": 6
+              },
+              "total": 6
+            },
+            "total": 7
+          },
+          "fetch": {
+            "faceting": 2,
+            "query": 15,
+            "scanning": 14,
+            "total": 32
+          },
+          "total": 40
+        },
+        "serverTimeMS": 42
+      }
+    ]
+  },
+  {
+    "results": [
+      {
+        "hits": [],
+        "nbHits": 0,
+        "page": 22,
+        "nbPages": 0,
+        "hitsPerPage": 51,
+        "exhaustiveFacetsCount": true,
+        "exhaustiveNbHits": true,
+        "exhaustiveTypo": true,
+        "exhaustive": {
+          "facetsCount": true,
+          "nbHits": true,
+          "typo": true
+        },
+        "processingTimeMS": 1,
+        "message": "you can only fetch the 1000 hits for this query. You can extend the number of hits returned via the paginationLimitedTo index parameter or use the browse method. You can read our FAQ for more details about browsing: https://www.algolia.com/doc/guides/sending-and-managing-data/manage-your-indices/how-to/export-an-algolia-index/#exporting-the-index-using-an-api-client",
+        "query": "pablo picasso",
+        "params": "highlightPreTag=%3Cais-highlight-0000000000%3E&highlightPostTag=%3C%2Fais-highlight-0000000000%3E&clickAnalytics=true&hitsPerPage=51&filters=type%3A%22Bid%22%20OR%20type%3A%22Buy%20Now%22%20OR%20type%3A%22Lot%22%20OR%20type%3A%22Private%20Sale%22%20OR%20type%3A%22Retail%22&query=pablo%20picasso&maxValuesPerFacet=9999&page=22&facets=%5B%22type%22%2C%22endDate%22%2C%22lowEstimate%22%2C%22highEstimate%22%2C%22artists%22%2C%22departments%22%5D&tagFilters=&facetFilters=%5B%5B%22departments%3A19th%20Century%20European%20Paintings%22%2C%22departments%3AImpressionist%20%26%20Modern%20Art%22%2C%22departments%3AContemporary%20Art%22%2C%22departments%3AAfrican%20%26%20Oceanic%20Art%22%2C%22departments%3AOld%20Master%20Paintings%22%5D%5D",
+        "index": "bsp_dotcom_prod_en",
+        "queryID": "30dc1e9fd83d4e2f8887c5eba649d1c2",
+        "renderingContent": {}
+      },
+      {
+        "hits": [
+          {
+            "objectID": "00000192-9b4a-d626-a99e-ff4f946e0000"
+          }
+        ],
+        "nbHits": 13230,
+        "nbSortedHits": 1000,
+        "page": 22,
+        "nbPages": 1000,
+        "hitsPerPage": 1,
+        "facets": {
+          "departments": {
+            "Prints": 8190,
+            "Impressionist & Modern Art": 3946,
+            "Books & Manuscripts": 511,
+            "20th Century Design": 79,
+            "Contemporary Art": 75,
+            "Photographs": 48,
+            "House Sales & Private Collections": 10,
+            "French & Continental Furniture": 7,
+            "19th Century European Paintings": 3,
+            "Old Master Paintings": 3,
+            "Special Projects": 3,
+            "African & Oceanic Art": 2,
+            "Jewelry": 2,
+            "Modern British & Irish Art": 2,
+            "Wine & Spirits": 2,
+            "American Furniture, Decorative Art & Folk Art": 1,
+            "English Furniture": 1,
+            "European Sculpture & Works of Art": 1,
+            "Indian, Himalayan & Southeast Asian Art": 1,
+            "Russian Art": 1
+          }
+        },
+        "exhaustiveFacetsCount": true,
+        "exhaustiveNbHits": false,
+        "exhaustiveTypo": false,
+        "exhaustive": {
+          "facetsCount": true,
+          "nbHits": false,
+          "typo": false
+        },
+        "query": "pablo picasso",
+        "params": "highlightPreTag=%3Cais-highlight-0000000000%3E&highlightPostTag=%3C%2Fais-highlight-0000000000%3E&clickAnalytics=false&hitsPerPage=1&filters=type%3A%22Bid%22%20OR%20type%3A%22Buy%20Now%22%20OR%20type%3A%22Lot%22%20OR%20type%3A%22Private%20Sale%22%20OR%20type%3A%22Retail%22&query=pablo%20picasso&maxValuesPerFacet=9999&page=22&attributesToRetrieve=%5B%5D&attributesToHighlight=%5B%5D&attributesToSnippet=%5B%5D&tagFilters=&analytics=false&facets=departments",
+        "index": "bsp_dotcom_prod_en",
+        "appliedRelevancyStrictness": 100,
+        "renderingContent": {},
+        "processingTimeMS": 33,
+        "processingTimingsMS": {
+          "_request": {
+            "roundTrip": 219
+          },
+          "fetch": {
+            "faceting": 1,
+            "query": 15,
+            "scanning": 15,
+            "total": 32
+          },
+          "total": 33
+        },
+        "serverTimeMS": 34
+      }
+    ]
+  },
+  {
+    "results": [
+      {
+        "hits": [],
+        "nbHits": 0,
+        "page": 23,
+        "nbPages": 0,
+        "hitsPerPage": 51,
+        "exhaustiveFacetsCount": true,
+        "exhaustiveNbHits": true,
+        "exhaustiveTypo": true,
+        "exhaustive": {
+          "facetsCount": true,
+          "nbHits": true,
+          "typo": true
+        },
+        "processingTimeMS": 1,
+        "message": "you can only fetch the 1000 hits for this query. You can extend the number of hits returned via the paginationLimitedTo index parameter or use the browse method. You can read our FAQ for more details about browsing: https://www.algolia.com/doc/guides/sending-and-managing-data/manage-your-indices/how-to/export-an-algolia-index/#exporting-the-index-using-an-api-client",
+        "query": "pablo picasso",
+        "params": "highlightPreTag=%3Cais-highlight-0000000000%3E&highlightPostTag=%3C%2Fais-highlight-0000000000%3E&clickAnalytics=true&hitsPerPage=51&filters=type%3A%22Bid%22%20OR%20type%3A%22Buy%20Now%22%20OR%20type%3A%22Lot%22%20OR%20type%3A%22Private%20Sale%22%20OR%20type%3A%22Retail%22&query=pablo%20picasso&maxValuesPerFacet=9999&page=23&facets=%5B%22type%22%2C%22endDate%22%2C%22lowEstimate%22%2C%22highEstimate%22%2C%22artists%22%2C%22departments%22%5D&tagFilters=&facetFilters=%5B%5B%22departments%3A19th%20Century%20European%20Paintings%22%2C%22departments%3AImpressionist%20%26%20Modern%20Art%22%2C%22departments%3AContemporary%20Art%22%2C%22departments%3AAfrican%20%26%20Oceanic%20Art%22%2C%22departments%3AOld%20Master%20Paintings%22%5D%5D",
+        "index": "bsp_dotcom_prod_en",
+        "queryID": "73d8f89a8de534b58c0ff9d4e9157bf4",
+        "renderingContent": {}
+      },
+      {
+        "hits": [
+          {
+            "objectID": "00000192-9b4a-d626-a99e-ff4f7ff40000"
+          }
+        ],
+        "nbHits": 13230,
+        "nbSortedHits": 1000,
+        "page": 23,
+        "nbPages": 1000,
+        "hitsPerPage": 1,
+        "facets": {
+          "departments": {
+            "Prints": 8190,
+            "Impressionist & Modern Art": 3946,
+            "Books & Manuscripts": 511,
+            "20th Century Design": 79,
+            "Contemporary Art": 75,
+            "Photographs": 48,
+            "House Sales & Private Collections": 10,
+            "French & Continental Furniture": 7,
+            "19th Century European Paintings": 3,
+            "Old Master Paintings": 3,
+            "Special Projects": 3,
+            "African & Oceanic Art": 2,
+            "Jewelry": 2,
+            "Modern British & Irish Art": 2,
+            "Wine & Spirits": 2,
+            "American Furniture, Decorative Art & Folk Art": 1,
+            "English Furniture": 1,
+            "European Sculpture & Works of Art": 1,
+            "Indian, Himalayan & Southeast Asian Art": 1,
+            "Russian Art": 1
+          }
+        },
+        "exhaustiveFacetsCount": true,
+        "exhaustiveFacetValues": false,
+        "exhaustiveNbHits": false,
+        "exhaustiveTypo": false,
+        "exhaustive": {
+          "facetsCount": true,
+          "facetValues": false,
+          "nbHits": false,
+          "typo": false
+        },
+        "query": "pablo picasso",
+        "params": "highlightPreTag=%3Cais-highlight-0000000000%3E&highlightPostTag=%3C%2Fais-highlight-0000000000%3E&clickAnalytics=false&hitsPerPage=1&filters=type%3A%22Bid%22%20OR%20type%3A%22Buy%20Now%22%20OR%20type%3A%22Lot%22%20OR%20type%3A%22Private%20Sale%22%20OR%20type%3A%22Retail%22&query=pablo%20picasso&maxValuesPerFacet=9999&page=23&attributesToRetrieve=%5B%5D&attributesToHighlight=%5B%5D&attributesToSnippet=%5B%5D&tagFilters=&analytics=false&facets=departments",
+        "index": "bsp_dotcom_prod_en",
+        "appliedRelevancyStrictness": 100,
+        "renderingContent": {},
+        "processingTimeMS": 30,
+        "processingTimingsMS": {
+          "_request": {
+            "roundTrip": 213
+          },
+          "fetch": {
+            "faceting": 1,
+            "query": 13,
+            "scanning": 13,
+            "total": 29
+          },
+          "total": 30
+        },
+        "serverTimeMS": 32
+      }
+    ]
+  },
+  {
+    "results": [
+      {
+        "hits": [],
+        "nbHits": 0,
+        "page": 24,
+        "nbPages": 0,
+        "hitsPerPage": 51,
+        "exhaustiveFacetsCount": true,
+        "exhaustiveFacetValues": false,
+        "exhaustiveNbHits": true,
+        "exhaustiveTypo": true,
+        "exhaustive": {
+          "facetsCount": true,
+          "facetValues": false,
+          "nbHits": true,
+          "typo": true
+        },
+        "processingTimeMS": 1,
+        "message": "you can only fetch the 1000 hits for this query. You can extend the number of hits returned via the paginationLimitedTo index parameter or use the browse method. You can read our FAQ for more details about browsing: https://www.algolia.com/doc/guides/sending-and-managing-data/manage-your-indices/how-to/export-an-algolia-index/#exporting-the-index-using-an-api-client",
+        "query": "pablo picasso",
+        "params": "highlightPreTag=%3Cais-highlight-0000000000%3E&highlightPostTag=%3C%2Fais-highlight-0000000000%3E&clickAnalytics=true&hitsPerPage=51&filters=type%3A%22Bid%22%20OR%20type%3A%22Buy%20Now%22%20OR%20type%3A%22Lot%22%20OR%20type%3A%22Private%20Sale%22%20OR%20type%3A%22Retail%22&query=pablo%20picasso&maxValuesPerFacet=9999&page=24&facets=%5B%22type%22%2C%22endDate%22%2C%22lowEstimate%22%2C%22highEstimate%22%2C%22artists%22%2C%22departments%22%5D&tagFilters=&facetFilters=%5B%5B%22departments%3A19th%20Century%20European%20Paintings%22%2C%22departments%3AImpressionist%20%26%20Modern%20Art%22%2C%22departments%3AContemporary%20Art%22%2C%22departments%3AAfrican%20%26%20Oceanic%20Art%22%2C%22departments%3AOld%20Master%20Paintings%22%5D%5D",
+        "index": "bsp_dotcom_prod_en",
+        "queryID": "d5ecedaece434dcbeb745df8278ef52c",
+        "renderingContent": {}
+      },
+      {
+        "hits": [
+          {
+            "objectID": "00000192-9b4a-d626-a99e-ff4f6eca0000"
+          }
+        ],
+        "nbHits": 13231,
+        "nbSortedHits": 1000,
+        "page": 24,
+        "nbPages": 1000,
+        "hitsPerPage": 1,
+        "facets": {
+          "departments": {
+            "Prints": 8190,
+            "Impressionist & Modern Art": 3946,
+            "Books & Manuscripts": 512,
+            "20th Century Design": 79,
+            "Contemporary Art": 75,
+            "Photographs": 48,
+            "House Sales & Private Collections": 10,
+            "French & Continental Furniture": 7,
+            "19th Century European Paintings": 3,
+            "Old Master Paintings": 3,
+            "Special Projects": 3,
+            "African & Oceanic Art": 2,
+            "Jewelry": 2,
+            "Modern British & Irish Art": 2,
+            "Wine & Spirits": 2,
+            "American Furniture, Decorative Art & Folk Art": 1,
+            "English Furniture": 1,
+            "European Sculpture & Works of Art": 1,
+            "Indian, Himalayan & Southeast Asian Art": 1,
+            "Russian Art": 1
+          }
+        },
+        "exhaustiveFacetsCount": true,
+        "exhaustiveNbHits": false,
+        "exhaustiveTypo": false,
+        "exhaustive": {
+          "facetsCount": true,
+          "nbHits": false,
+          "typo": false
+        },
+        "query": "pablo picasso",
+        "params": "highlightPreTag=%3Cais-highlight-0000000000%3E&highlightPostTag=%3C%2Fais-highlight-0000000000%3E&clickAnalytics=false&hitsPerPage=1&filters=type%3A%22Bid%22%20OR%20type%3A%22Buy%20Now%22%20OR%20type%3A%22Lot%22%20OR%20type%3A%22Private%20Sale%22%20OR%20type%3A%22Retail%22&query=pablo%20picasso&maxValuesPerFacet=9999&page=24&attributesToRetrieve=%5B%5D&attributesToHighlight=%5B%5D&attributesToSnippet=%5B%5D&tagFilters=&analytics=false&facets=departments",
+        "index": "bsp_dotcom_prod_en",
+        "appliedRelevancyStrictness": 100,
+        "renderingContent": {},
+        "processingTimeMS": 30,
+        "processingTimingsMS": {
+          "_request": {
+            "roundTrip": 192
+          },
+          "fetch": {
+            "faceting": 1,
+            "query": 13,
+            "scanning": 13,
+            "total": 29
+          },
+          "total": 30
+        },
+        "serverTimeMS": 32
+      }
+    ]
+  },
+  {
+    "results": [
+      {
+        "hits": [],
+        "nbHits": 0,
+        "page": 25,
+        "nbPages": 0,
+        "hitsPerPage": 51,
+        "exhaustiveFacetsCount": true,
+        "exhaustiveNbHits": true,
+        "exhaustiveTypo": true,
+        "exhaustive": {
+          "facetsCount": true,
+          "nbHits": true,
+          "typo": true
+        },
+        "processingTimeMS": 1,
+        "message": "you can only fetch the 1000 hits for this query. You can extend the number of hits returned via the paginationLimitedTo index parameter or use the browse method. You can read our FAQ for more details about browsing: https://www.algolia.com/doc/guides/sending-and-managing-data/manage-your-indices/how-to/export-an-algolia-index/#exporting-the-index-using-an-api-client",
+        "query": "pablo picasso",
+        "params": "highlightPreTag=%3Cais-highlight-0000000000%3E&highlightPostTag=%3C%2Fais-highlight-0000000000%3E&clickAnalytics=true&hitsPerPage=51&filters=type%3A%22Bid%22%20OR%20type%3A%22Buy%20Now%22%20OR%20type%3A%22Lot%22%20OR%20type%3A%22Private%20Sale%22%20OR%20type%3A%22Retail%22&query=pablo%20picasso&maxValuesPerFacet=9999&page=25&facets=%5B%22type%22%2C%22endDate%22%2C%22lowEstimate%22%2C%22highEstimate%22%2C%22artists%22%2C%22departments%22%5D&tagFilters=&facetFilters=%5B%5B%22departments%3A19th%20Century%20European%20Paintings%22%2C%22departments%3AImpressionist%20%26%20Modern%20Art%22%2C%22departments%3AContemporary%20Art%22%2C%22departments%3AAfrican%20%26%20Oceanic%20Art%22%2C%22departments%3AOld%20Master%20Paintings%22%5D%5D",
+        "index": "bsp_dotcom_prod_en",
+        "queryID": "d9c257c8d028a6c5e7f2e6ccef2f9c0d",
+        "renderingContent": {}
+      },
+      {
+        "hits": [
+          {
+            "objectID": "00000192-9b4a-d626-a99e-ff4f48630000"
+          }
+        ],
+        "nbHits": 13231,
+        "nbSortedHits": 1000,
+        "page": 25,
+        "nbPages": 1000,
+        "hitsPerPage": 1,
+        "facets": {
+          "departments": {
+            "Prints": 8190,
+            "Impressionist & Modern Art": 3946,
+            "Books & Manuscripts": 512,
+            "20th Century Design": 79,
+            "Contemporary Art": 75,
+            "Photographs": 48,
+            "House Sales & Private Collections": 10,
+            "French & Continental Furniture": 7,
+            "19th Century European Paintings": 3,
+            "Old Master Paintings": 3,
+            "Special Projects": 3,
+            "African & Oceanic Art": 2,
+            "Jewelry": 2,
+            "Modern British & Irish Art": 2,
+            "Wine & Spirits": 2,
+            "American Furniture, Decorative Art & Folk Art": 1,
+            "English Furniture": 1,
+            "European Sculpture & Works of Art": 1,
+            "Indian, Himalayan & Southeast Asian Art": 1,
+            "Russian Art": 1
+          }
+        },
+        "exhaustiveFacetsCount": true,
+        "exhaustiveNbHits": false,
+        "exhaustiveTypo": false,
+        "exhaustive": {
+          "facetsCount": true,
+          "nbHits": false,
+          "typo": false
+        },
+        "query": "pablo picasso",
+        "params": "highlightPreTag=%3Cais-highlight-0000000000%3E&highlightPostTag=%3C%2Fais-highlight-0000000000%3E&clickAnalytics=false&hitsPerPage=1&filters=type%3A%22Bid%22%20OR%20type%3A%22Buy%20Now%22%20OR%20type%3A%22Lot%22%20OR%20type%3A%22Private%20Sale%22%20OR%20type%3A%22Retail%22&query=pablo%20picasso&maxValuesPerFacet=9999&page=25&attributesToRetrieve=%5B%5D&attributesToHighlight=%5B%5D&attributesToSnippet=%5B%5D&tagFilters=&analytics=false&facets=departments",
+        "index": "bsp_dotcom_prod_en",
+        "appliedRelevancyStrictness": 100,
+        "renderingContent": {},
+        "processingTimeMS": 29,
+        "processingTimingsMS": {
+          "_request": {
+            "roundTrip": 197
+          },
+          "fetch": {
+            "query": 13,
+            "scanning": 13,
+            "total": 28
+          },
+          "total": 29
+        },
+        "serverTimeMS": 30
+      }
+    ]
+  },
+  {
+    "results": [
+      {
+        "hits": [],
+        "nbHits": 0,
+        "page": 26,
+        "nbPages": 0,
+        "hitsPerPage": 51,
+        "exhaustiveFacetsCount": true,
+        "exhaustiveNbHits": true,
+        "exhaustiveTypo": true,
+        "exhaustive": {
+          "facetsCount": true,
+          "nbHits": true,
+          "typo": true
+        },
+        "processingTimeMS": 1,
+        "message": "you can only fetch the 1000 hits for this query. You can extend the number of hits returned via the paginationLimitedTo index parameter or use the browse method. You can read our FAQ for more details about browsing: https://www.algolia.com/doc/guides/sending-and-managing-data/manage-your-indices/how-to/export-an-algolia-index/#exporting-the-index-using-an-api-client",
+        "query": "pablo picasso",
+        "params": "highlightPreTag=%3Cais-highlight-0000000000%3E&highlightPostTag=%3C%2Fais-highlight-0000000000%3E&clickAnalytics=true&hitsPerPage=51&filters=type%3A%22Bid%22%20OR%20type%3A%22Buy%20Now%22%20OR%20type%3A%22Lot%22%20OR%20type%3A%22Private%20Sale%22%20OR%20type%3A%22Retail%22&query=pablo%20picasso&maxValuesPerFacet=9999&page=26&facets=%5B%22type%22%2C%22endDate%22%2C%22lowEstimate%22%2C%22highEstimate%22%2C%22artists%22%2C%22departments%22%5D&tagFilters=&facetFilters=%5B%5B%22departments%3A19th%20Century%20European%20Paintings%22%2C%22departments%3AImpressionist%20%26%20Modern%20Art%22%2C%22departments%3AContemporary%20Art%22%2C%22departments%3AAfrican%20%26%20Oceanic%20Art%22%2C%22departments%3AOld%20Master%20Paintings%22%5D%5D",
+        "index": "bsp_dotcom_prod_en",
+        "queryID": "52e832c2ce7f8b28c4335eef560cabe2",
+        "renderingContent": {}
+      },
+      {
+        "hits": [
+          {
+            "objectID": "00000192-9b4a-d626-a99e-ff4f10b30000"
+          }
+        ],
+        "nbHits": 13231,
+        "nbSortedHits": 1000,
+        "page": 26,
+        "nbPages": 1000,
+        "hitsPerPage": 1,
+        "facets": {
+          "departments": {
+            "Prints": 8190,
+            "Impressionist & Modern Art": 3946,
+            "Books & Manuscripts": 512,
+            "20th Century Design": 79,
+            "Contemporary Art": 75,
+            "Photographs": 48,
+            "House Sales & Private Collections": 10,
+            "French & Continental Furniture": 7,
+            "19th Century European Paintings": 3,
+            "Old Master Paintings": 3,
+            "Special Projects": 3,
+            "African & Oceanic Art": 2,
+            "Jewelry": 2,
+            "Modern British & Irish Art": 2,
+            "Wine & Spirits": 2,
+            "American Furniture, Decorative Art & Folk Art": 1,
+            "English Furniture": 1,
+            "European Sculpture & Works of Art": 1,
+            "Indian, Himalayan & Southeast Asian Art": 1,
+            "Russian Art": 1
+          }
+        },
+        "exhaustiveFacetsCount": true,
+        "exhaustiveFacetValues": false,
+        "exhaustiveNbHits": false,
+        "exhaustiveTypo": false,
+        "exhaustive": {
+          "facetsCount": true,
+          "facetValues": false,
+          "nbHits": false,
+          "typo": false
+        },
+        "query": "pablo picasso",
+        "params": "highlightPreTag=%3Cais-highlight-0000000000%3E&highlightPostTag=%3C%2Fais-highlight-0000000000%3E&clickAnalytics=false&hitsPerPage=1&filters=type%3A%22Bid%22%20OR%20type%3A%22Buy%20Now%22%20OR%20type%3A%22Lot%22%20OR%20type%3A%22Private%20Sale%22%20OR%20type%3A%22Retail%22&query=pablo%20picasso&maxValuesPerFacet=9999&page=26&attributesToRetrieve=%5B%5D&attributesToHighlight=%5B%5D&attributesToSnippet=%5B%5D&tagFilters=&analytics=false&facets=departments",
+        "index": "bsp_dotcom_prod_en",
+        "appliedRelevancyStrictness": 100,
+        "renderingContent": {},
+        "processingTimeMS": 29,
+        "processingTimingsMS": {
+          "_request": {
+            "roundTrip": 207
+          },
+          "fetch": {
+            "faceting": 1,
+            "query": 13,
+            "scanning": 13,
+            "total": 28
+          },
+          "total": 29
+        },
+        "serverTimeMS": 30
+      }
+    ]
+  },
+  {
+    "results": [
+      {
+        "hits": [],
+        "nbHits": 0,
+        "page": 27,
+        "nbPages": 0,
+        "hitsPerPage": 51,
+        "exhaustiveFacetsCount": true,
+        "exhaustiveNbHits": true,
+        "exhaustiveTypo": true,
+        "exhaustive": {
+          "facetsCount": true,
+          "nbHits": true,
+          "typo": true
+        },
+        "processingTimeMS": 1,
+        "message": "you can only fetch the 1000 hits for this query. You can extend the number of hits returned via the paginationLimitedTo index parameter or use the browse method. You can read our FAQ for more details about browsing: https://www.algolia.com/doc/guides/sending-and-managing-data/manage-your-indices/how-to/export-an-algolia-index/#exporting-the-index-using-an-api-client",
+        "query": "pablo picasso",
+        "params": "highlightPreTag=%3Cais-highlight-0000000000%3E&highlightPostTag=%3C%2Fais-highlight-0000000000%3E&clickAnalytics=true&hitsPerPage=51&filters=type%3A%22Bid%22%20OR%20type%3A%22Buy%20Now%22%20OR%20type%3A%22Lot%22%20OR%20type%3A%22Private%20Sale%22%20OR%20type%3A%22Retail%22&query=pablo%20picasso&maxValuesPerFacet=9999&page=27&facets=%5B%22type%22%2C%22endDate%22%2C%22lowEstimate%22%2C%22highEstimate%22%2C%22artists%22%2C%22departments%22%5D&tagFilters=&facetFilters=%5B%5B%22departments%3A19th%20Century%20European%20Paintings%22%2C%22departments%3AImpressionist%20%26%20Modern%20Art%22%2C%22departments%3AContemporary%20Art%22%2C%22departments%3AAfrican%20%26%20Oceanic%20Art%22%2C%22departments%3AOld%20Master%20Paintings%22%5D%5D",
+        "index": "bsp_dotcom_prod_en",
+        "queryID": "20f581c96497e8455be83a8721d9dcb2",
+        "renderingContent": {}
+      },
+      {
+        "hits": [
+          {
+            "objectID": "00000192-9b49-d626-a99e-ff4fa9320000"
+          }
+        ],
+        "nbHits": 13135,
+        "nbSortedHits": 1000,
+        "page": 27,
+        "nbPages": 1000,
+        "hitsPerPage": 1,
+        "facets": {
+          "departments": {
+            "Prints": 8186,
+            "Impressionist & Modern Art": 3934,
+            "Books & Manuscripts": 436,
+            "20th Century Design": 79,
+            "Contemporary Art": 75,
+            "Photographs": 47,
+            "House Sales & Private Collections": 10,
+            "French & Continental Furniture": 7,
+            "Special Projects": 3,
+            "19th Century European Paintings": 2,
+            "African & Oceanic Art": 2,
+            "Modern British & Irish Art": 2,
+            "Old Master Paintings": 2,
+            "Wine & Spirits": 2,
+            "American Furniture, Decorative Art & Folk Art": 1,
+            "English Furniture": 1,
+            "European Sculpture & Works of Art": 1,
+            "Indian, Himalayan & Southeast Asian Art": 1,
+            "Jewelry": 1,
+            "Russian Art": 1
+          }
+        },
+        "exhaustiveFacetsCount": true,
+        "exhaustiveNbHits": false,
+        "exhaustiveTypo": false,
+        "exhaustive": {
+          "facetsCount": true,
+          "nbHits": false,
+          "typo": false
+        },
+        "query": "pablo picasso",
+        "params": "highlightPreTag=%3Cais-highlight-0000000000%3E&highlightPostTag=%3C%2Fais-highlight-0000000000%3E&clickAnalytics=false&hitsPerPage=1&filters=type%3A%22Bid%22%20OR%20type%3A%22Buy%20Now%22%20OR%20type%3A%22Lot%22%20OR%20type%3A%22Private%20Sale%22%20OR%20type%3A%22Retail%22&query=pablo%20picasso&maxValuesPerFacet=9999&page=27&attributesToRetrieve=%5B%5D&attributesToHighlight=%5B%5D&attributesToSnippet=%5B%5D&tagFilters=&analytics=false&facets=departments",
+        "index": "bsp_dotcom_prod_en",
+        "appliedRelevancyStrictness": 100,
+        "renderingContent": {},
+        "processingTimeMS": 30,
+        "processingTimingsMS": {
+          "_request": {
+            "roundTrip": 197
+          },
+          "fetch": {
+            "faceting": 2,
+            "query": 12,
+            "scanning": 13,
+            "total": 29
+          },
+          "total": 30
+        },
+        "serverTimeMS": 35
+      }
+    ]
+  },
+  {
+    "results": [
+      {
+        "hits": [],
+        "nbHits": 0,
+        "page": 28,
+        "nbPages": 0,
+        "hitsPerPage": 51,
+        "exhaustiveFacetsCount": true,
+        "exhaustiveNbHits": true,
+        "exhaustiveTypo": true,
+        "exhaustive": {
+          "facetsCount": true,
+          "nbHits": true,
+          "typo": true
+        },
+        "processingTimeMS": 1,
+        "message": "you can only fetch the 1000 hits for this query. You can extend the number of hits returned via the paginationLimitedTo index parameter or use the browse method. You can read our FAQ for more details about browsing: https://www.algolia.com/doc/guides/sending-and-managing-data/manage-your-indices/how-to/export-an-algolia-index/#exporting-the-index-using-an-api-client",
+        "query": "pablo picasso",
+        "params": "highlightPreTag=%3Cais-highlight-0000000000%3E&highlightPostTag=%3C%2Fais-highlight-0000000000%3E&clickAnalytics=true&hitsPerPage=51&filters=type%3A%22Bid%22%20OR%20type%3A%22Buy%20Now%22%20OR%20type%3A%22Lot%22%20OR%20type%3A%22Private%20Sale%22%20OR%20type%3A%22Retail%22&query=pablo%20picasso&maxValuesPerFacet=9999&page=28&facets=%5B%22type%22%2C%22endDate%22%2C%22lowEstimate%22%2C%22highEstimate%22%2C%22artists%22%2C%22departments%22%5D&tagFilters=&facetFilters=%5B%5B%22departments%3A19th%20Century%20European%20Paintings%22%2C%22departments%3AImpressionist%20%26%20Modern%20Art%22%2C%22departments%3AContemporary%20Art%22%2C%22departments%3AAfrican%20%26%20Oceanic%20Art%22%2C%22departments%3AOld%20Master%20Paintings%22%5D%5D",
+        "index": "bsp_dotcom_prod_en",
+        "queryID": "a1626b7a01aae1d9609c378ee1439053",
+        "renderingContent": {}
+      },
+      {
+        "hits": [
+          {
+            "objectID": "00000192-9b49-d626-a99e-ff4f87150000"
+          }
+        ],
+        "nbHits": 13230,
+        "nbSortedHits": 1000,
+        "page": 28,
+        "nbPages": 1000,
+        "hitsPerPage": 1,
+        "facets": {
+          "departments": {
+            "Prints": 8190,
+            "Impressionist & Modern Art": 3946,
+            "Books & Manuscripts": 511,
+            "20th Century Design": 79,
+            "Contemporary Art": 75,
+            "Photographs": 48,
+            "House Sales & Private Collections": 10,
+            "French & Continental Furniture": 7,
+            "19th Century European Paintings": 3,
+            "Old Master Paintings": 3,
+            "Special Projects": 3,
+            "African & Oceanic Art": 2,
+            "Jewelry": 2,
+            "Modern British & Irish Art": 2,
+            "Wine & Spirits": 2,
+            "American Furniture, Decorative Art & Folk Art": 1,
+            "English Furniture": 1,
+            "European Sculpture & Works of Art": 1,
+            "Indian, Himalayan & Southeast Asian Art": 1,
+            "Russian Art": 1
+          }
+        },
+        "exhaustiveFacetsCount": true,
+        "exhaustiveNbHits": false,
+        "exhaustiveTypo": false,
+        "exhaustive": {
+          "facetsCount": true,
+          "nbHits": false,
+          "typo": false
+        },
+        "query": "pablo picasso",
+        "params": "highlightPreTag=%3Cais-highlight-0000000000%3E&highlightPostTag=%3C%2Fais-highlight-0000000000%3E&clickAnalytics=false&hitsPerPage=1&filters=type%3A%22Bid%22%20OR%20type%3A%22Buy%20Now%22%20OR%20type%3A%22Lot%22%20OR%20type%3A%22Private%20Sale%22%20OR%20type%3A%22Retail%22&query=pablo%20picasso&maxValuesPerFacet=9999&page=28&attributesToRetrieve=%5B%5D&attributesToHighlight=%5B%5D&attributesToSnippet=%5B%5D&tagFilters=&analytics=false&facets=departments",
+        "index": "bsp_dotcom_prod_en",
+        "appliedRelevancyStrictness": 100,
+        "renderingContent": {},
+        "processingTimeMS": 29,
+        "processingTimingsMS": {
+          "_request": {
+            "roundTrip": 190
+          },
+          "fetch": {
+            "faceting": 1,
+            "query": 13,
+            "scanning": 13,
+            "total": 28
+          },
+          "total": 29
+        },
+        "serverTimeMS": 31
+      }
+    ]
+  },
+  {
+    "results": [
+      {
+        "hits": [],
+        "nbHits": 0,
+        "page": 29,
+        "nbPages": 0,
+        "hitsPerPage": 51,
+        "exhaustiveFacetsCount": true,
+        "exhaustiveNbHits": true,
+        "exhaustiveTypo": true,
+        "exhaustive": {
+          "facetsCount": true,
+          "nbHits": true,
+          "typo": true
+        },
+        "processingTimeMS": 1,
+        "message": "you can only fetch the 1000 hits for this query. You can extend the number of hits returned via the paginationLimitedTo index parameter or use the browse method. You can read our FAQ for more details about browsing: https://www.algolia.com/doc/guides/sending-and-managing-data/manage-your-indices/how-to/export-an-algolia-index/#exporting-the-index-using-an-api-client",
+        "query": "pablo picasso",
+        "params": "highlightPreTag=%3Cais-highlight-0000000000%3E&highlightPostTag=%3C%2Fais-highlight-0000000000%3E&clickAnalytics=true&hitsPerPage=51&filters=type%3A%22Bid%22%20OR%20type%3A%22Buy%20Now%22%20OR%20type%3A%22Lot%22%20OR%20type%3A%22Private%20Sale%22%20OR%20type%3A%22Retail%22&query=pablo%20picasso&maxValuesPerFacet=9999&page=29&facets=%5B%22type%22%2C%22endDate%22%2C%22lowEstimate%22%2C%22highEstimate%22%2C%22artists%22%2C%22departments%22%5D&tagFilters=&facetFilters=%5B%5B%22departments%3A19th%20Century%20European%20Paintings%22%2C%22departments%3AImpressionist%20%26%20Modern%20Art%22%2C%22departments%3AContemporary%20Art%22%2C%22departments%3AAfrican%20%26%20Oceanic%20Art%22%2C%22departments%3AOld%20Master%20Paintings%22%5D%5D",
+        "index": "bsp_dotcom_prod_en",
+        "queryID": "363bba8e378afa1eabd1ab4e67fa1068",
+        "renderingContent": {}
+      },
+      {
+        "hits": [
+          {
+            "objectID": "00000192-9b49-d626-a99e-ff4f51640000"
+          }
+        ],
+        "nbHits": 13231,
+        "nbSortedHits": 1000,
+        "page": 29,
+        "nbPages": 1000,
+        "hitsPerPage": 1,
+        "facets": {
+          "departments": {
+            "Prints": 8190,
+            "Impressionist & Modern Art": 3946,
+            "Books & Manuscripts": 512,
+            "20th Century Design": 79,
+            "Contemporary Art": 75,
+            "Photographs": 48,
+            "House Sales & Private Collections": 10,
+            "French & Continental Furniture": 7,
+            "19th Century European Paintings": 3,
+            "Old Master Paintings": 3,
+            "Special Projects": 3,
+            "African & Oceanic Art": 2,
+            "Jewelry": 2,
+            "Modern British & Irish Art": 2,
+            "Wine & Spirits": 2,
+            "American Furniture, Decorative Art & Folk Art": 1,
+            "English Furniture": 1,
+            "European Sculpture & Works of Art": 1,
+            "Indian, Himalayan & Southeast Asian Art": 1,
+            "Russian Art": 1
+          }
+        },
+        "exhaustiveFacetsCount": true,
+        "exhaustiveNbHits": false,
+        "exhaustiveTypo": false,
+        "exhaustive": {
+          "facetsCount": true,
+          "nbHits": false,
+          "typo": false
+        },
+        "query": "pablo picasso",
+        "params": "highlightPreTag=%3Cais-highlight-0000000000%3E&highlightPostTag=%3C%2Fais-highlight-0000000000%3E&clickAnalytics=false&hitsPerPage=1&filters=type%3A%22Bid%22%20OR%20type%3A%22Buy%20Now%22%20OR%20type%3A%22Lot%22%20OR%20type%3A%22Private%20Sale%22%20OR%20type%3A%22Retail%22&query=pablo%20picasso&maxValuesPerFacet=9999&page=29&attributesToRetrieve=%5B%5D&attributesToHighlight=%5B%5D&attributesToSnippet=%5B%5D&tagFilters=&analytics=false&facets=departments",
+        "index": "bsp_dotcom_prod_en",
+        "appliedRelevancyStrictness": 100,
+        "renderingContent": {},
+        "processingTimeMS": 30,
+        "processingTimingsMS": {
+          "_request": {
+            "roundTrip": 197
+          },
+          "fetch": {
+            "faceting": 1,
+            "query": 14,
+            "scanning": 13,
+            "total": 29
+          },
+          "total": 30
+        },
+        "serverTimeMS": 32
+      }
+    ]
+  }
+]
