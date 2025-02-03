@@ -3,6 +3,13 @@
 
 ## Artist : Pablo Picasso
 ## 작품 상승률
+- 작품 종류별 예상 연평균 수익률 입니다.
+    1. Oil Painting : 약 2.58%
+    2. Watercolor Painting : 약 6.04%
+    3. Drawing : 약 -1.64%
+    4. Gouache Painting : 약 -5.04%
+    5. Print : 약 -8.24%
+    
 ![alt text](./readme/image_oil_average.png)
 ![alt text](./readme/image_watercolor_average.png)
 ![alt text](./readme/image_drawing_average.png)
