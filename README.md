@@ -10,4 +10,30 @@
 ![alt text](./readme/image_print_average.png)
 
 ## 최소 예상 투자 액수
-## 환금성 순위
+
+## 환금성 분야 순위
+- 예상가를 더 잘 상회하는 작품은 수요가 많아 환금성이 높은 작품입니다.
+  1. Print
+  2. Drawing
+  3. Watercolor Painting
+  4. Gouache Painting
+  5. Oil Painting
+
+
+### Drawing:
+![alt text](/readme/3drawing.png)
+
+### Watercolor Painting:
+![alt text](/readme/3watercolour.png)
+
+### Oil Painting:
+![alt text](/readme/3oil_painting.png)
+
+### Gouache Painting:
+![alt text](/readme/3gouache.png)
+
+### Print:
+![alt text](/readme/3print.png)
+
+
+

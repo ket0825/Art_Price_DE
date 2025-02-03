@@ -22,9 +22,13 @@ def convert_price_to_usd(price: str, end_date) -> float:
     """
     if not price:
         return None
+    try:
+        currency, price_str = price.split(" ")
+        price_int = int(price_str.replace(",", ""))
+    except:
+        print("check here: ", price)
+        return None
     
-    currency, price_str = price.split(" ")
-    price_int = int(price_str.replace(",", ""))
     if currency == "USD":
         return price_int
 
@@ -108,10 +112,11 @@ def parse_artwork_type(desc: str) -> str:
     # TODO: 더 추가하긴 해야 함. 이거 없으면 아예 제외해야 할듯.
     # 사실 여러 속성이 들어갈 수 있음.
     # 프랑스어인 경우도 존재함. 이후 추론해야 할 듯.
-    types = re.findall(r'<br>\s*(.*?(?:oil|watercolour|watercolor|lithograph|screenprint|graphite|ink|silkscreen|gouache|acrylic|pencil|paper|board|panel|canvas|pastel|crayon|pen|linoleum).*?)<br>', desc, re.I)
+
+    types = re.findall(r'<br>\s*(.*?(?:oil|watercolour|watercolor|lithograph|screenprint|graphite|ink|silkscreen|gouache|acrylic|pencil|paper|board|panel|canvas|pastel|crayon|pen|linoleum|print|linocut|aquatint|drypoint|etching|engraving|engrave|lithograph).*?)<br>', desc, re.I)
     if types:
         return types[0].strip()
-    french_types = re.findall(r'<br>\s*(.*?(?:huile|aquarelle|plume|encre|papier|toile|carton|panneau|pastel|crayon|stylo|linoléum).*?)<br>', desc, re.I)
+    french_types = re.findall(r'<br>\s*(.*?(?:huile|aquarelle|plume|encre|papier|toile|carton|panneau|pastel|crayon|stylo|linoléum|gravure|linogravure|aquatinte|pointe sèche|eau-forte|taille-douce|lithographie).*?)<br>', desc, re.I)
     if french_types:
         return french_types[0].strip()
     print("NO artwork type: ", desc)
@@ -220,15 +225,7 @@ def transform_data(artist, data: Dict) -> List:
         # printing 제외
         description = lot['description_txt'].lower()
         if (
-            "print" in description
-            or 'linocut' in description
-            or 'aquatint' in description
-            or 'drypoint' in description
-            or 'etching' in description
-            or 'engraving' in description
-            or 'engrave' in description
-            or 'lithograph' in description
-            or 'earthenware' in description
+            'earthenware' in description
             or 'ceramic' in description
             or 'plate' in description
             or 'tile' in description
@@ -244,14 +241,6 @@ def transform_data(artist, data: Dict) -> List:
             # 가죽
             or 'patina' in description
 
-            # 프랑스어
-            or 'gravure' in description      # print의 프랑스어
-            or 'linogravure' in description  # linocut
-            or 'aquatinte' in description    # aquatint
-            or 'pointe sèche' in description # drypoint
-            or 'eau-forte' in description    # etching
-            or 'taille-douce' in description # engraving
-            or 'lithographie' in description # lithograph
             or 'faïence' in description      # earthenware
             or 'céramique' in description    # ceramic
             or 'assiette' in description     # plate
@@ -291,12 +280,24 @@ def transform_data(artist, data: Dict) -> List:
         height = result["dimensions"]["height"]
         # 가로
         width = result["dimensions"]["width"]
-
+        try:
+            estimate_split = estimate.split(" ")
+            currency = estimate_split[0]
+            low_estimate = estimate_split[1]
+            high_estimate = estimate_split[3]
+            currency_low = f"{currency} {low_estimate}"
+            currency_high = f"{currency} {high_estimate}"
+        except:
+            currency_low = None
+            currency_high = None
+            print("check here: ", estimate)
         transformed_data.append({
             "artist": artist, # 작가명
             "title": title, # 작품명
             "end_date": end_date, # 거래 마감 날짜
-            "estimate_USD": estimate, # 예상 낙찰가
+            "estimate": estimate, # 예상 낙찰가
+            "low_estimate_USD": convert_price_to_usd(currency_low, end_date), # 예상 낙찰가
+            "high_estimate_USD": convert_price_to_usd(currency_high, end_date), # 예상 낙찰가
             "price_USD": convert_price_to_usd(price, end_date), # 실제 낙찰가
             "auction_site": auction_site, # 경매사이트
             "year": year, # 제작 (마감) 일자
