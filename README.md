@@ -24,6 +24,11 @@
   - 미니멈 예상 투자 액수 추정 - 작가 자체를 알아볼 시간을 단축
 
 - 최소 예상 투자 액수 계산, 액수 순으로 내림차순 정렬한 결과
+  1. Oil Painting: 1,442,282
+  2. Watercolor Painting: 141,700
+  3. Gouache Painting: 71,166
+  4. Drawing: 49,071
+  5. Print: 5,091
 ![alt text](./readme/20_percentlile.png)
 
 ## 환금성 분야 순위
