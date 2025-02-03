@@ -3,5 +3,6 @@
 
 ## Artist : Pablo Picasso
 ## 작품 상승률
+![alt text](readme/image.png)
 ## 최소 예상 투자 액수
 ## 환금성 순위
