@@ -1,0 +1,427 @@
+artist,title,end_date,estimate_USD,price_USD,auction_site,year,artwork_type,edition,height_cm,width_cm,start_date,low_estimate,high_estimate,price,currency,low_estimate_USD,high_estimate_USD,estimateCurrency,type
+Pablo_Picasso,Femme assise au chapeau,2011-05-04T00:00:00,"USD 3,000,000 - 4,000,000",4338500.0,Christies,1961.0,oil on canvas,,116.0,89.0,,,,,,,,,Oil Painting
+Pablo_Picasso,"Les femmes d'Alger, version L",2011-05-04T00:00:00,"USD 20,000,000 - 30,000,000",21362500.0,Christies,1955.0,oil on canvas,,130.0,97.0,,,,,,,,,Oil Painting
+Pablo_Picasso,Femme assise,2011-11-01T00:00:00,"USD 4,000,000 - 6,000,000",5122500.0,Christies,1938.0,oil on canvas,,69.0,48.9,,,,,,,,,Oil Painting
+Pablo_Picasso,Guéridon devant une fenêtre aux volets fermés,2011-11-01T00:00:00,"USD 800,000 - 1,200,000",1538500.0,Christies,1919.0,oil on canvas,,22.2,11.4,,,,,,,,,Oil Painting
+Pablo_Picasso,Mousquetaire buste,2011-11-01T00:00:00,"USD 1,000,000 - 1,500,000",1650500.0,Christies,1968.0,oil on panel,,92.0,36.5,,,,,,,,,Oil Painting
+Pablo_Picasso,Buste de Françoise,2011-06-21T00:00:00,"GBP 7,000,000 - 10,000,000",17280220.0,Christies,1946.0,oil on board,,99.6,80.6,,,,,,,,,Oil Painting
+Pablo_Picasso,Paysage,2011-06-21T00:00:00,"GBP 550,000 - 850,000",1788083.0,Christies,1933.0,oil on canvas,,27.3,35.2,,,,,,,,,Oil Painting
+Pablo_Picasso,Jeune fille endormie,2011-06-21T00:00:00,"GBP 9,000,000 - 12,000,000",21810085.0,Christies,1935.0,oil on canvas,,46.3,55.0,,,,,,,,,Oil Painting
+Pablo_Picasso,Le pot de fleurs sur fond noir,2011-06-21T00:00:00,"GBP 800,000 - 1,200,000",3690626.0,Christies,1932.0,oil on canvas,,65.0,50.2,,,,,,,,,Oil Painting
+Pablo_Picasso,"Femme assise, robe bleue",2011-06-21T00:00:00,"GBP 4,000,000 - 8,000,000",29057868.0,Christies,1939.0,oil on canvas,,73.0,60.0,,,,,,,,,Oil Painting
+Pablo_Picasso,Deux nus couchés,2012-05-01T00:00:00,"USD 8,000,000 - 12,000,000",8818500.0,Christies,1968.0,oil on canvas,,195.0,130.0,,,,,,,,,Oil Painting
+Pablo_Picasso,Femme dans l'atelier,2012-05-01T00:00:00,"USD 3,000,000 - 5,000,000",4114500.0,Christies,1956.0,oil on canvas,,73.0,92.0,,,,,,,,,Oil Painting
+Pablo_Picasso,Mousquetaire et nu assis,2012-05-01T00:00:00,"USD 5,000,000 - 8,000,000",4226500.0,Christies,1967.0,oil on canvas,,99.7,80.6,,,,,,,,,Oil Painting
+Pablo_Picasso,Femme au fauteuil,2012-02-09T00:00:00,"GBP 4,000,000 - 6,000,000",7541719.0,Christies,1949.0,oil on canvas,,61.0,50.2,,,,,,,,,Oil Painting
+Pablo_Picasso,Paysage de Juan-les-Pins,2012-02-08T00:00:00,"GBP 250,000 - 350,000",457384.0,Christies,1925.0,oil on canvas,,13.5,57.0,,,,,,,,,Oil Painting
+Pablo_Picasso,Baigneuse,2012-02-07T00:00:00,"GBP 200,000 - 300,000",570884.0,Christies,1928.0,oil on canvas,,19.0,24.0,,,,,,,,,Oil Painting
+Pablo_Picasso,Nu et tête d'homme,2012-02-07T00:00:00,"GBP 3,000,000 - 5,000,000",2897090.0,Christies,1967.0,oil on canvas,,129.54,96.84,,,,,,,,,Oil Painting
+Pablo_Picasso,Tête d'homme et nu assis,2012-02-07T00:00:00,"GBP 500,000 - 800,000",2012120.0,Christies,1964.0,oil on canvas,,38.1,46.04,,,,,,,,,Oil Painting
+Pablo_Picasso,Femme au chien,2012-06-20T00:00:00,"GBP 6,000,000 - 9,000,000",10957255.0,Christies,1962.0,oil on canvas,,162.0,130.0,,,,,,,,,Oil Painting
+Pablo_Picasso,Femme assise,2012-06-20T00:00:00,"GBP 5,000,000 - 7,500,000",13416862.0,Christies,1949.0,oil on canvas,,115.6,89.5,,,,,,,,,Oil Painting
+Pablo_Picasso,Nu couché et homme à la guitarre,2012-06-20T00:00:00,"GBP 1,000,000 - 1,500,000",2348627.0,Christies,1972.0,oil on canvas,,80.96,100.01,,,,,,,,,Oil Painting
+Pablo_Picasso,Paysage de Vallauris,2012-05-02T00:00:00,"USD 600,000 - 800,000",758500.0,Christies,1953.0,oil on canvas,,33.02,46.04,,,,,,,,,Oil Painting
+Pablo_Picasso,Le Repos (Marie-Thérèse Walter),2012-05-01T00:00:00,"USD 5,000,000 - 7,000,000",9882500.0,Christies,1932.0,oil on canvas,,27.3,46.3,,,,,,,,,Oil Painting
+Pablo_Picasso,Femme assise,2012-05-01T00:00:00,"USD 2,500,000 - 3,500,000",5234500.0,Christies,1953.0,oil on canvas,,46.04,38.1,,,,,,,,,Oil Painting
+Pablo_Picasso,Le transformateur,2013-02-07T00:00:00,"GBP 250,000 - 350,000",453156.0,Christies,1953.0,oil on canvas,,22.2,27.0,,,,,,,,,Oil Painting
+Pablo_Picasso,"Verre, pipe et paquet de tabac",2013-02-06T00:00:00,"GBP 600,000 - 900,000",1476681.0,Christies,1919.0,oil on canvas,,35.24,26.99,,,,,,,,,Oil Painting
+Pablo_Picasso,Nu accroupi,2013-02-06T00:00:00,"GBP 3,000,000 - 5,000,000",11534976.0,Christies,1960.0,oil on canvas,,145.73,113.98,,,,,,,,,Oil Painting
+Pablo_Picasso,Homme assis,2013-02-06T00:00:00,"GBP 900,000 - 1,200,000",2358988.0,Christies,1969.0,oil on corrugated cardboard laid down on canvas,,130.2,65.1,,,,,,,,,Oil Painting
+Pablo_Picasso,Tête d'homme et nu assis,2013-02-06T00:00:00,"GBP 600,000 - 800,000",1335512.0,Christies,1964.0,oil on canvas,,50.0,61.0,,,,,,,,,Oil Painting
+Pablo_Picasso,Le peintre,2013-02-06T00:00:00,"GBP 2,500,000 - 4,500,000",5535292.0,Christies,1967.0,oil on canvas,,100.0,80.7,,,,,,,,,Oil Painting
+Pablo_Picasso,Portrait d'un vieillard,2012-11-28T00:00:00,"EUR 40,000 - 60,000",203896.0,Christies,1996.0,huile sur toile,,37.5,31.9,,,,,,,,,Oil Painting
+Pablo_Picasso,Tête de femme,2012-11-07T00:00:00,"USD 4,000,000 - 6,000,000",5234500.0,Christies,1952.0,oil on canvas,,45.72,38.1,,,,,,,,,Oil Painting
+Pablo_Picasso,Buste de femme,2012-11-07T00:00:00,"USD 8,000,000 - 12,000,000",13074500.0,Christies,1937.0,oil on canvas,,55.0,46.0,,,,,,,,,Oil Painting
+Pablo_Picasso,Femme au chien,2012-11-07T00:00:00,"USD 5,000,000 - 7,000,000",6354500.0,Christies,1962.0,oil on canvas,,146.0,114.0,,,,,,,,,Oil Painting
+Pablo_Picasso,Le chien dalmate,2012-11-07T00:00:00,"USD 2,500,000 - 3,500,000",2322500.0,Christies,1959.0,oil on canvas,,162.0,130.0,,,,,,,,,Oil Painting
+Pablo_Picasso,Paysage,2012-11-07T00:00:00,"USD 700,000 - 1,000,000",962500.0,Christies,1965.0,oil on board,,50.0,80.3,,,,,,,,,Oil Painting
+Pablo_Picasso,Retrato de Modesto Castillo,2012-06-21T00:00:00,"GBP 100,000 - 150,000",3410019.0,Christies,1895.0,oil on canvas,,44.5,27.1,,,,,,,,,Oil Painting
+Pablo_Picasso,Tête de femme,2023-06-28T00:00:00,"GBP 1,000,000 - 1,500,000",1588996.0,Christies,1921.0,oil on canvas,,18.73,15.88,,,,,,,,,Oil Painting
+Pablo_Picasso,Tête de femme (Dora Maar),2023-06-28T00:00:00,"GBP 500,000 - 800,000",672717.0,Christies,1939.0,oil on paper,,32.07,21.27,,,,,,,,,Oil Painting
+Pablo_Picasso,Buste d'homme lauré,2023-05-17T00:00:00,"USD 9,000,000 - 12,000,000",8460000.0,Christies,1969.0,oil and ripolin on canvas,,115.89,88.9,,,,,,,,,Oil Painting
+Pablo_Picasso,Le peintre et son mod è le,2023-05-13T00:00:00,"USD 2,500,000 - 3,500,000",3317000.0,Christies,1963.0,oil on canvas,,73.03,100.01,,,,,,,,,Oil Painting
+Pablo_Picasso,Buste de jeune fille (Paloma),2023-05-13T00:00:00,"USD 1,200,000 - 1,800,000",1925500.0,Christies,1951.0,oil and ripolin on canvas,,54.61,33.02,,,,,,,,,Oil Painting
+Pablo_Picasso,Femme au béret orange et au col de fourrure (Marie-Thérèse),2013-11-05T00:00:00,"USD 8,000,000 - 12,000,000",12149000.0,Christies,1937.0,oil on canvas,,61.28,46.04,,,,,,,,,Oil Painting
+Pablo_Picasso,Tête de femme au chapeau,2013-11-05T00:00:00,"USD 1,500,000 - 2,000,000",2741000.0,Christies,1965.0,oil on canvas,,60.0,50.0,,,,,,,,,Oil Painting
+Pablo_Picasso,Buste d'homme écrivant (Autoportrait),2013-11-04T00:00:00,"USD 6,000,000 - 8,000,000",6661000.0,Christies,1971.0,oil on canvas,,115.5,88.9,,,,,,,,,Oil Painting
+Pablo_Picasso,Claude et Paloma,2013-11-04T00:00:00,"USD 9,000,000 - 12,000,000",28165000.0,Christies,1950.0,oil and ripolin on panel,,115.89,88.9,,,,,,,,,Oil Painting
+Pablo_Picasso,Figure (Paulo en costume d'Arlequin),2013-11-04T00:00:00,"USD 1,500,000 - 2,000,000",1445000.0,Christies,1926.0,oil on canvas,,23.81,16.19,,,,,,,,,Oil Painting
+Pablo_Picasso,Homme assis et centaure,2013-11-04T00:00:00,"USD 2,500,000 - 3,500,000",2405000.0,Christies,1972.0,oil on canvas,,81.6,100.65,,,,,,,,,Oil Painting
+Pablo_Picasso,Homme assis,2013-09-26T00:00:00,"CNY 4,500,000 - 6,200,000",,Christies,1969.0,oil on panel laid down on cradled panel,,56.6,28.7,,,,,,,,,Oil Painting
+Pablo_Picasso,Tête de femme de profil,2013-06-19T00:00:00,"GBP 300,000 - 500,000",795125.0,Christies,2024.0,oil on canvas,,33.0,24.0,,,,,,,,,Oil Painting
+Pablo_Picasso,Buste d'homme à la pipe,2013-06-18T00:00:00,"GBP 900,000 - 1,200,000",2650705.0,Christies,1969.0,oil on corrugated cardboard laid down on panel,,95.5,64.7,,,,,,,,,Oil Painting
+Pablo_Picasso,Femme assise dans un fauteuil,2013-06-18T00:00:00,"GBP 4,000,000 - 6,000,000",9606570.0,Christies,1960.0,oil on canvas,,129.86,96.84,,,,,,,,,Oil Painting
+Pablo_Picasso,Tête d'homme,2013-06-18T00:00:00,"GBP 1,200,000 - 1,800,000",2914852.0,Christies,1969.0,oil on canvas,,46.04,38.1,,,,,,,,,Oil Painting
+Pablo_Picasso,Tête d'homme,2013-06-18T00:00:00,"GBP 2,000,000 - 3,000,000",4675830.0,Christies,1964.0,oil on canvas,,80.96,60.01,,,,,,,,,Oil Painting
+Pablo_Picasso,L'Arlésienne (Lee Miller),2023-05-11T00:00:00,"USD 20,000,000 - 30,000,000",24560000.0,Christies,1937.0,oil and ripolin on canvas,,73.34,59.69,,,,,,,,,Oil Painting
+Pablo_Picasso,"Cafetière, tasse et pipe",2023-05-11T00:00:00,"USD 8,000,000 - 12,000,000",11335000.0,Christies,1911.0,oil on canvas,,46.04,26.99,,,,,,,,,Oil Painting
+Pablo_Picasso,Femme assise au chapeau de paille (Marie-Thérèse),2023-05-11T00:00:00,"USD 20,000,000 - 30,000,000",,Christies,1938.0,oil on canvas,,65.09,53.98,,,,,,,,,Oil Painting
+Pablo_Picasso,Bougie et masque,2023-05-11T00:00:00,"USD 1,500,000 - 2,500,000",,Christies,1943.0,oil on canvas,,33.02,55.24,,,,,,,,,Oil Painting
+Pablo_Picasso,Oiseau,2023-04-04T00:00:00,"EUR 150,000 - 250,000",408366.0,Christies,1939.0,huile sur toile,,14.0,18.0,,,,,,,,,Oil Painting
+Pablo_Picasso,Tête d'homme (III),2023-04-04T00:00:00,"EUR 1,000,000 - 1,500,000",2184434.0,Christies,1964.0,huile sur toile,,55.0,46.0,,,,,,,,,Oil Painting
+Pablo_Picasso,Femme dans un rocking-chair (Jacqueline),2023-02-28T00:00:00,"GBP 15,000,000 - 20,000,000",20190042.0,Christies,1956.0,oil on canvas,,193.04,130.18,,,,,,,,,Oil Painting
+Pablo_Picasso,"Femme assise dans un fauteuil tressé, en gris (Françoise)",2023-02-28T00:00:00,"GBP 6,000,000 - 9,000,000",6361082.0,Christies,1953.0,oil on canvas,,116.2,88.9,,,,,,,,,Oil Painting
+Pablo_Picasso,Mousquetaire I (Espagnol du XVllème siècle),2023-02-28T00:00:00,"GBP 4,500,000 - 6,500,000",6504511.0,Christies,1967.0,oil on canvas,,129.54,97.16,,,,,,,,,Oil Painting
+Pablo_Picasso,Compotier et verres,2023-02-28T00:00:00,"GBP 1,200,000 - 1,800,000",2345066.0,Christies,1943.0,oil on canvas,,46.36,60.96,,,,,,,,,Oil Painting
+Pablo_Picasso,Homme et enfant,2014-02-04T00:00:00,"GBP 3,200,000 - 4,200,000",7683899.0,Christies,1969.0,oil on canvas,,194.6,129.8,,,,,,,,,Oil Painting
+Pablo_Picasso,Femme au costume turc dans un fauteuil,2014-02-04T00:00:00,"GBP 15,000,000 - 20,000,000",27751294.0,Christies,1955.0,oil on canvas,,92.0,73.0,,,,,,,,,Oil Painting
+Pablo_Picasso,Tête d'homme,2014-02-04T00:00:00,"GBP 2,500,000 - 3,500,000",4554121.0,Christies,1972.0,oil on canvas,,92.0,73.0,,,,,,,,,Oil Painting
+Pablo_Picasso,Verre et pichet,2013-12-03T00:00:00,"EUR 700,000 - 1,000,000",1143187.0,Christies,2044.0,huile sur toile,,38.2,55.0,,,,,,,,,Oil Painting
+Pablo_Picasso,Tranche de melon,2013-11-06T00:00:00,"USD 400,000 - 600,000",401000.0,Christies,1948.0,oil on canvas,,35.0,35.0,,,,,,,,,Oil Painting
+Pablo_Picasso,Composition (Figure féminine sur une plage),2013-05-08T00:00:00,"USD 800,000 - 1,200,000",1443750.0,Christies,1927.0,oil on canvas,,18.73,17.46,,,,,,,,,Oil Painting
+Pablo_Picasso,Femme assise en costume rouge sur fond bleu,2013-05-08T00:00:00,"USD 7,000,000 - 10,000,000",8523750.0,Christies,1953.0,oil on panel,,91.76,72.71,,,,,,,,,Oil Painting
+Pablo_Picasso,Mandoline et portée de musique,2013-05-08T00:00:00,"USD 8,000,000 - 12,000,000",9195750.0,Christies,1923.0,oil and sand on canvas,,97.0,130.0,,,,,,,,,Oil Painting
+Pablo_Picasso,Nu aux bras levés,2013-05-08T00:00:00,"USD 2,500,000 - 3,500,000",3259750.0,Christies,1955.0,oil on canvas,,73.1,55.3,,,,,,,,,Oil Painting
+Pablo_Picasso,Pomme et verre,2013-05-08T00:00:00,This lot has been withdrawn from auction,,Christies,1923.0,oil and sand on canvas,,24.7,33.3,,,,,,,,,Oil Painting
+Pablo_Picasso,Guitare,2014-11-05T00:00:00,"USD 3,000,000 - 5,000,000",5317000.0,Christies,1920.0,oil on canvas,,89.0,116.3,,,,,,,,,Oil Painting
+Pablo_Picasso,Mère et enfant,2014-10-24T00:00:00,"EUR 1,200,000 - 1,800,000",1746412.0,Christies,1965.0,huile sur toile,,65.0,54.0,,,,,,,,,Oil Painting
+Pablo_Picasso,Nature morte au citron,2014-06-25T00:00:00,"GBP 300,000 - 500,000",,Christies,1947.0,oil on canvas,,14.29,18.1,,,,,,,,,Oil Painting
+Pablo_Picasso,Les femmes d'Alger (Version 'O'),2015-05-11T00:00:00,Estimate on request,179365000.0,Christies,1955.0,oil on canvas,,113.98,146.37,,,,,,,,,Oil Painting
+Pablo_Picasso,Buste de femme (Femme à la résille),2015-05-11T00:00:00,Estimate on request,67365000.0,Christies,1938.0,oil on canvas,,65.1,54.0,,,,,,,,,Oil Painting
+Pablo_Picasso,Nature morte à la cruche,2015-02-04T00:00:00,"GBP 800,000 - 1,200,000",1807129.0,Christies,1937.0,oil on canvas,,46.67,55.56,,,,,,,,,Oil Painting
+Pablo_Picasso,Buste d'homme,2015-02-04T00:00:00,"GBP 600,000 - 900,000",1536623.0,Christies,1969.0,oil on corrugated cardboard,,96.52,49.85,,,,,,,,,Oil Painting
+Pablo_Picasso,Tête,2014-11-06T00:00:00,"USD 600,000 - 900,000",1085000.0,Christies,1929.0,oil on canvas,,23.0,17.2,,,,,,,,,Oil Painting
+Pablo_Picasso,Enfants dans le jardin du Luxembourg,2014-05-06T00:00:00,"USD 1,000,000 - 1,500,000",1205000.0,Christies,1901.0,oil on paper laid down on panel,,32.0,40.0,,,,,,,,,Oil Painting
+Pablo_Picasso,Tête de femme,2014-04-26T00:00:00,"CNY 9,000,000 - 15,000,000",,Christies,1964.0,oil on canvas,,55.2,45.9,,,,,,,,,Oil Painting
+Pablo_Picasso,Nature morte au chandelier,2014-02-04T00:00:00,"GBP 2,500,000 - 3,500,000",5842853.0,Christies,1937.0,oil on canvas,,5.08,53.34,,,,,,,,,Oil Painting
+Pablo_Picasso,"Nature morte, compotier avec fruits, pot avec fleurs",2023-11-11T00:00:00,"USD 800,000 - 1,200,000",2833000.0,Christies,1939.0,oil on canvas,,33.0,41.3,,,,,,,,,Oil Painting
+Pablo_Picasso,Nu couché,2023-11-09T00:00:00,"USD 10,000,000 - 15,000,000",13635000.0,Christies,1968.0,oil and ripolin on canvas,,114.0,162.5,,,,,,,,,Oil Painting
+Pablo_Picasso,Femme endormie,2023-11-09T00:00:00,"USD 25,000,000 - 35,000,000",42960000.0,Christies,1934.0,oil on canvas,,72.4,54.0,,,,,,,,,Oil Painting
+Pablo_Picasso,Germaine,2014-06-24T00:00:00,"GBP 1,000,000 - 1,500,000",1842709.0,Christies,1900.0,oil on board,,21.91,15.24,,,,,,,,,Oil Painting
+Pablo_Picasso,Tête de femme à deux profils,2014-05-13T00:00:00,"USD 4,000,000 - 6,000,000",9013000.0,Christies,1939.0,oil on canvas laid down on panel,,91.76,73.34,,,,,,,,,Oil Painting
+Pablo_Picasso,Buste de femme,2014-05-07T00:00:00,"USD 800,000 - 1,200,000",2741000.0,Christies,1944.0,oil on canvas,,35.0,27.0,,,,,,,,,Oil Painting
+Pablo_Picasso,Femme nue couchée au collier,2014-05-06T00:00:00,"USD 8,000,000 - 12,000,000",11141000.0,Christies,1932.0,oil on canvas,,40.64,40.64,,,,,,,,,Oil Painting
+Pablo_Picasso,Mangeuse de pastèque et homme écrivant,2014-05-06T00:00:00,"USD 7,000,000 - 10,000,000",8005000.0,Christies,1965.0,oil on canvas,,129.86,161.61,,,,,,,,,Oil Painting
+Pablo_Picasso,Nature morte au filet de pêche,2014-05-06T00:00:00,"USD 6,000,000 - 9,000,000",9013000.0,Christies,2025.0,oil on canvas,,100.3,82.1,,,,,,,,,Oil Painting
+Pablo_Picasso,Portrait de femme (Dora Maar),2014-05-06T00:00:00,"USD 25,000,000 - 35,000,000",22565000.0,Christies,1942.0,oil on panel,,99.4,80.8,,,,,,,,,Oil Painting
+Pablo_Picasso,Tête d'homme,2014-05-06T00:00:00,"USD 3,000,000 - 4,000,000",4869000.0,Christies,1972.0,oil on canvas,,73.0,60.2,,,,,,,,,Oil Painting
+Pablo_Picasso,Buste de femme,2014-05-06T00:00:00,"USD 5,000,000 - 8,000,000",6101000.0,Christies,1939.0,oil on panel,,59.8,45.0,,,,,,,,,Oil Painting
+Pablo_Picasso,Deux femmes et enfant,2014-05-06T00:00:00,"USD 12,000,000 - 16,000,000",13045000.0,Christies,1922.0,oil on canvas,,188.91,129.22,,,,,,,,,Oil Painting
+Pablo_Picasso,Buste de femme,2014-05-06T00:00:00,"USD 2,500,000 - 3,500,000",4421000.0,Christies,1938.0,oil on canvas,,55.2,38.0,,,,,,,,,Oil Painting
+Pablo_Picasso,Nature morte aux volets verts,2016-06-22T00:00:00,"GBP 2,000,000 - 3,000,000",,Christies,1946.0,oil on canvas,,72.39,91.44,,,,,,,,,Oil Painting
+Pablo_Picasso,Homme assis,2016-05-12T00:00:00,"USD 8,000,000 - 12,000,000",8005000.0,Christies,1969.0,oil and ripolin on canvas,,145.73,113.98,,,,,,,,,Oil Painting
+Pablo_Picasso,Le poisson échoué au soleil,2016-05-12T00:00:00,"USD 400,000 - 700,000",605000.0,Christies,1922.0,oil on panel,,14.3,19.0,,,,,,,,,Oil Painting
+Pablo_Picasso,Compotier et verres,2016-05-12T00:00:00,"USD 1,500,000 - 2,000,000",1565000.0,Christies,1943.0,oil on canvas,,60.0,73.0,,,,,,,,,Oil Painting
+Pablo_Picasso,Femme assise,2016-05-12T00:00:00,"USD 4,000,000 - 6,000,000",,Christies,1939.0,oil on canvas,,65.09,49.85,,,,,,,,,Oil Painting
+Pablo_Picasso,Le peintre et son modèle,2016-05-12T00:00:00,"USD 2,500,000 - 3,500,000",2629000.0,Christies,1963.0,oil on canvas,,49.3,107.3,,,,,,,,,Oil Painting
+Pablo_Picasso,Buste d'homme,2016-05-12T00:00:00,"USD 1,800,000 - 2,500,000",3077000.0,Christies,1965.0,oil on canvas,,80.96,65.09,,,,,,,,,Oil Painting
+Pablo_Picasso,Composition avec verre,2010-11-04T00:00:00,"USD 350,000 - 450,000",302500.0,Christies,1921.0,oil and sand on board,,25.4,15.24,,,,,,,,,Oil Painting
+Pablo_Picasso,"Compotier, bouteille et verre",2010-11-04T00:00:00,"USD 700,000 - 1,000,000",698500.0,Christies,1922.0,oil on canvas,,45.4,55.56,,,,,,,,,Oil Painting
+Pablo_Picasso,Le Peintre et son modèle,2010-11-03T00:00:00,"USD 2,500,000 - 3,500,000",2882500.0,Christies,1964.0,oil on canvas,,98.6,129.5,,,,,,,,,Oil Painting
+Pablo_Picasso,"Tête de femme, profil",2010-11-03T00:00:00,"USD 1,500,000 - 2,000,000",1538500.0,Christies,1956.0,oil on canvas,,40.64,33.02,,,,,,,,,Oil Painting
+Pablo_Picasso,Sur l'impériale traversant la Seine,2011-02-09T00:00:00,"GBP 2,000,000 - 3,000,000",7834274.0,Christies,1901.0,oil on cardboard,,48.58,64.45,,,,,,,,,Oil Painting
+Pablo_Picasso,Verre et pipe,2011-02-09T00:00:00,"GBP 450,000 - 650,000",698790.0,Christies,1919.0,oil on canvas,,27.0,22.0,,,,,,,,,Oil Painting
+Pablo_Picasso,Nature morte au compotier,2011-02-09T00:00:00,"GBP 600,000 - 800,000",1060080.0,Christies,1919.0,oil on canvas,,24.2,33.0,,,,,,,,,Oil Painting
+Pablo_Picasso,Tête de femme au chapeau,2011-02-09T00:00:00,"GBP 2,000,000 - 3,000,000",3408467.0,Christies,1939.0,oil on canvas,,60.5,50.8,,,,,,,,,Oil Painting
+Pablo_Picasso,Tête d'homme,2011-02-09T00:00:00,"GBP 500,000 - 700,000",1421370.0,Christies,1965.0,oil on canvas,,46.04,38.1,,,,,,,,,Oil Painting
+Pablo_Picasso,Tête de femme,2015-11-12T00:00:00,"USD 3,000,000 - 4,000,000",3749000.0,Christies,1940.0,oil on paper laid down on canvas,,64.45,45.72,,,,,,,,,Oil Painting
+Pablo_Picasso,Tête de femme,2015-11-12T00:00:00,"USD 1,500,000 - 2,000,000",3077000.0,Christies,1900.0,oil on canvas,,35.56,33.02,,,,,,,,,Oil Painting
+Pablo_Picasso,Baigneuses au ballon,2015-11-12T00:00:00,"USD 1,000,000 - 1,500,000",3525000.0,Christies,1928.0,oil on canvas,,21.91,35.24,,,,,,,,,Oil Painting
+Pablo_Picasso,La Carafe (Bouteille et verre),2015-11-12T00:00:00,"USD 6,000,000 - 9,000,000",10469000.0,Christies,1911.0,oil on canvas,,55.2,38.1,,,,,,,,,Oil Painting
+Pablo_Picasso,"Femme assise, buste",2015-11-12T00:00:00,"USD 1,800,000 - 2,500,000",2165000.0,Christies,1964.0,oil on canvas,,60.96,37.78,,,,,,,,,Oil Painting
+Pablo_Picasso,Le hibou sur la chaise,2015-11-12T00:00:00,"USD 3,000,000 - 4,000,000",5317000.0,Christies,1947.0,oil on canvas,,72.71,60.01,,,,,,,,,Oil Painting
+Pablo_Picasso,Homme assis (Mardi gras),2015-11-12T00:00:00,"USD 6,000,000 - 9,000,000",,Christies,1972.0,oil on canvas,,129.5,97.2,,,,,,,,,Oil Painting
+Pablo_Picasso,Le peintre et son modèle,2015-11-12T00:00:00,"USD 3,000,000 - 5,000,000",,Christies,1963.0,oil on canvas,,73.0,92.0,,,,,,,,,Oil Painting
+Pablo_Picasso,Nature morte à la bougie,2024-03-07T00:00:00,"GBP 2,500,000 - 3,500,000",2741074.0,Christies,1944.0,oil on canvas,,63.2,91.7,,,,,,,,,Oil Painting
+Pablo_Picasso,Le homard dans un panier,2015-11-12T00:00:00,"USD 1,500,000 - 2,500,000",2165000.0,Christies,1965.0,oil on canvas,,88.9,115.89,,,,,,,,,Oil Painting
+Pablo_Picasso,Homme à l’épée,2015-11-09T00:00:00,Estimate on request,22565000.0,Christies,1969.0,oil on panel,,145.73,114.3,,,,,,,,,Oil Painting
+Pablo_Picasso,Buste d'homme,2015-10-23T00:00:00,"EUR 1,200,000 - 1,800,000",1915434.0,Christies,1964.0,huile sur toile,,55.5,46.0,,,,,,,,,Oil Painting
+Pablo_Picasso,"Compotier, bouteille, guitare devant une fenêtre ouverte",2015-06-24T00:00:00,"GBP 600,000 - 800,000",1143666.0,Christies,1919.0,oil on canvas,,20.96,20.96,,,,,,,,,Oil Painting
+Pablo_Picasso,Verre et radis,2015-06-23T00:00:00,"GBP 250,000 - 350,000",575835.0,Christies,1944.0,oil on canvas,,19.0,27.2,,,,,,,,,Oil Painting
+Pablo_Picasso,Grappe de raisin,2015-06-23T00:00:00,"GBP 450,000 - 650,000",1376445.0,Christies,1914.0,oil and collage with sawdust on canvas,,22.5,27.3,,,,,,,,,Oil Painting
+Pablo_Picasso,Tête,2015-06-23T00:00:00,"GBP 4,800,000 - 6,500,000",7069672.0,Christies,1969.0,oil on canvas,,116.0,89.0,,,,,,,,,Oil Painting
+Pablo_Picasso,Femme au chapeau assise,2024-05-16T00:00:00,"USD 20,000,000 - 30,000,000",19960000.0,Christies,1971.0,<i>femme au chapeau assise</i><br> dated and numbered '28.7.71. ii' (on the reverse)<br> oil and ripolin on canvas,,130.0,97.1,,,,,,,,,Oil Painting
+Pablo_Picasso,Buste de femme,2024-05-16T00:00:00,"USD 5,000,000 - 7,000,000",5132000.0,Christies,1960.0,<i>buste de femme</i><br> signed 'picasso' (upper left); dated and numbered '10.3.60. ii' (on the reverse)<br> oil on canvas,,80.96,65.09,,,,,,,,,Oil Painting
+Pablo_Picasso,L’Arlésienne (Lee Miller),2022-05-12T00:00:00,"USD 10,000,000 - 15,000,000",13672000.0,Christies,1937.0,oil on canvas,,81.0,65.0,,,,,,,,,Oil Painting
+Pablo_Picasso,Le Jardin des Tuileries,2022-05-12T00:00:00,"USD 800,000 - 1,200,000",1008000.0,Christies,1899.0,oil on canvas,,65.8,92.8,,,,,,,,,Oil Painting
+Pablo_Picasso,Femme dans l'atelier,2022-05-12T00:00:00,"USD 4,000,000 - 6,000,000",4200000.0,Christies,1956.0,oil on canvas,,60.0,72.5,,,,,,,,,Oil Painting
+Pablo_Picasso,Buste d'homme,2022-03-04T00:00:00,"GBP 600,000 - 900,000",1114088.0,Christies,1969.0,oil on corrugated cardboard,,71.2,49.8,,,,,,,,,Oil Painting
+Pablo_Picasso,Buste d'homme,2022-03-01T00:00:00,"GBP 1,200,000 - 1,800,000",,Christies,1969.0,oil and ripolin on corrugated cardboard,,96.0,64.5,,,,,,,,,Oil Painting
+Pablo_Picasso,Le modè le dans l'atelier,2022-03-01T00:00:00,"GBP 3,000,000 - 4,000,000",4870546.0,Christies,1965.0,oil and ripolin on canvas,,46.2,54.9,,,,,,,,,Oil Painting
+Pablo_Picasso,Nu assis sur un tapis ray é,2022-03-01T00:00:00,"GBP 1,500,000 - 2,500,000",2463357.0,Christies,1964.0,oil on canvas,,53.5,65.0,,,,,,,,,Oil Painting
+Pablo_Picasso,Sylvette,2022-03-01T00:00:00,"GBP 2,500,000 - 3,500,000",4068150.0,Christies,1954.0,oil on canvas,,99.8,81.0,,,,,,,,,Oil Painting
+Pablo_Picasso,La fenê tre ouverte,2022-03-01T00:00:00,"GBP 14,000,000 - 24,000,000",21824515.0,Christies,1929.0,oil on canvas,,130.5,163.4,,,,,,,,,Oil Painting
+Pablo_Picasso,Buste d’homme,2021-12-01T00:00:00,"HKD 12,000,000 - 18,000,000",,Christies,1969.0,oil on corrugated cardboard,,96.5,65.0,,,,,,,,,Oil Painting
+Pablo_Picasso,Homme au chapeau,2021-12-01T00:00:00,"HKD 48,000,000 - 70,000,000",,Christies,1964.0,oil and ripolin on canvas,,91.4,64.8,,,,,,,,,Oil Painting
+Pablo_Picasso,Homme assis,2022-11-30T00:00:00,"HKD 8,200,000 - 12,800,000",,Christies,1969.0,oil on panel laid down on cradled panel,,56.6,28.7,,,,,,,,,Oil Painting
+Pablo_Picasso,Buffalo Bill,2022-11-17T00:00:00,"USD 10,000,000 - 15,000,000",12412500.0,Christies,1911.0,oil and sand on canvas,,46.36,33.34,,,,,,,,,Oil Painting
+Pablo_Picasso,Homme à la moustache,2022-11-17T00:00:00,"USD 4,000,000 - 6,000,000",4620000.0,Christies,1970.0,oil and oil stick on panel,,128.91,65.09,,,,,,,,,Oil Painting
+Pablo_Picasso,Le peintre et son modèle,2022-11-17T00:00:00,"USD 8,000,000 - 12,000,000",10351500.0,Christies,1964.0,oil and ripolin on canvas,,129.86,194.94,,,,,,,,,Oil Painting
+Pablo_Picasso,Fillette aux nattes et au chapeau vert,2022-11-17T00:00:00,"USD 4,000,000 - 6,000,000",4620000.0,Christies,1956.0,oil on canvas,,73.34,59.69,,,,,,,,,Oil Painting
+Pablo_Picasso,Quatre baigneuses,2022-11-09T00:00:00,"USD 600,000 - 800,000",3420000.0,Christies,1921.0,oil on panel,,10.16,15.24,,,,,,,,,Oil Painting
+Pablo_Picasso,Portrait de Renart,2016-11-16T00:00:00,"USD 1,000,000 - 1,500,000",3007500.0,Christies,1899.0,oil on canvas,,44.5,38.0,,,,,,,,,Oil Painting
+Pablo_Picasso,Figure,2016-11-16T00:00:00,"USD 1,000,000 - 1,500,000",967500.0,Christies,1929.0,oil on canvas,,33.02,40.96,,,,,,,,,Oil Painting
+Pablo_Picasso,Buste de femme (Dora Maar),2016-11-16T00:00:00,"USD 18,000,000 - 25,000,000",22647500.0,Christies,1938.0,oil on canvas,,45.4,40.32,,,,,,,,,Oil Painting
+Pablo_Picasso,Portrait d'Angel Fernández de Soto,2016-11-16T00:00:00,"USD 1,800,000 - 2,500,000",3367500.0,Christies,1899.0,oil on canvas,,61.91,51.75,,,,,,,,,Oil Painting
+Pablo_Picasso,Homme à la pipe,2016-11-16T00:00:00,"USD 15,000,000 - 20,000,000",18391500.0,Christies,1969.0,oil on canvas,,195.0,129.8,,,,,,,,,Oil Painting
+Pablo_Picasso,L’Atelier,2016-11-16T00:00:00,"USD 5,000,000 - 7,000,000",6183500.0,Christies,1955.0,oil on canvas,,189.8,79.7,,,,,,,,,Oil Painting
+Pablo_Picasso,Buste d'homme,2016-10-21T00:00:00,"EUR 2,000,000 - 3,000,000",2109970.0,Christies,1969.0,oil on corrugated cardboard,,130.2,65.1,,,,,,,,,Oil Painting
+Pablo_Picasso,Nature morte,2016-06-22T00:00:00,"GBP 2,000,000 - 3,000,000",,Christies,1946.0,oil on canvas,,73.03,92.08,,,,,,,,,Oil Painting
+Pablo_Picasso,Tête d'homme de profil II,2022-10-20T00:00:00,"EUR 2,000,000 - 3,000,000",2823042.0,Christies,1965.0,huile sur toile,,65.1,54.2,,,,,,,,,Oil Painting
+Pablo_Picasso,Femme nue assise,2022-06-29T00:00:00,"GBP 400,000 - 600,000",1081982.0,Christies,1901.0,oil on board laid down on panel,,49.5,36.2,,,,,,,,,Oil Painting
+Pablo_Picasso,Femme s'essuyant les pieds (Françoise),2022-06-28T00:00:00,"GBP 1,500,000 - 2,500,000",2483510.0,Christies,1953.0,oil and <i>sgraffito </i>on canvas,,46.04,33.02,,,,,,,,,Oil Painting
+Pablo_Picasso,Buste d’homme dans un cadre,2022-05-26T00:00:00,Estimate on request,,Christies,1969.0,oil on canvas,,92.0,73.0,,,,,,,,,Oil Painting
+Pablo_Picasso,Femme couchée,2017-05-15T00:00:00,This lot has been withdrawn from auction,,Christies,1929.0,oil on canvas,,19.2,35.0,,,,,,,,,Oil Painting
+Pablo_Picasso,Femme assise dans un fauteuil,2017-05-15T00:00:00,"USD 20,000,000 - 30,000,000",30487500.0,Christies,1917.0,oil on canvas,,130.2,88.9,,,,,,,,,Oil Painting
+Pablo_Picasso,"Femme assise, robe bleue",2017-05-15T00:00:00,"USD 35,000,000 - 50,000,000",45047500.0,Christies,1939.0,oil on canvas,,73.0,60.0,,,,,,,,,Oil Painting
+Pablo_Picasso,Femme dans un fauteuil,2017-05-15T00:00:00,"USD 5,000,000 - 7,000,000",6407500.0,Christies,1956.0,oil on canvas,,100.01,80.96,,,,,,,,,Oil Painting
+Pablo_Picasso,Tête de femme (Dora Maar),2017-05-15T00:00:00,"USD 600,000 - 900,000",547500.0,Christies,1939.0,oil on paper,,32.07,21.27,,,,,,,,,Oil Painting
+Pablo_Picasso,Baigneuses au ballon,2020-07-10T00:00:00,"USD 1,200,000 - 1,800,000",4575000.0,Christies,1928.0,oil on canvas,,21.91,35.24,,,,,,,,,Oil Painting
+Pablo_Picasso,Les femmes d'Alger (version 'F'),2020-07-10T00:00:00,Estimate on request,29217500.0,Christies,1955.0,oil on canvas,,54.29,65.09,,,,,,,,,Oil Painting
+Pablo_Picasso,Femme debout,2020-12-02T00:00:00,"USD 3,000,000 - 5,000,000",2550000.0,Christies,1927.0,oil on canvas,,129.0,96.5,,,,,,,,,Oil Painting
+Pablo_Picasso,Tête d'homme,2020-12-02T00:00:00,"USD 1,500,000 - 2,500,000",2670000.0,Christies,1964.0,oil on canvas,,61.1,50.0,,,,,,,,,Oil Painting
+Pablo_Picasso,Nature morte aux tomates,2020-10-22T00:00:00,"EUR 900,000 - 1,300,000",1145128.0,Christies,1920.0,oil on panel,,92.0,73.5,,,,,,,,,Oil Painting
+Pablo_Picasso,Femme dans un fauteuil,2020-10-06T00:00:00,"USD 20,000,000 - 30,000,000",29557500.0,Christies,1941.0,oil on canvas,,129.86,96.52,,,,,,,,,Oil Painting
+Pablo_Picasso,Femme au chapeau,2020-10-06T00:00:00,"USD 8,000,000 - 12,000,000",9520000.0,Christies,1941.0,oil on canvas,,73.0,60.0,,,,,,,,,Oil Painting
+Pablo_Picasso,La Poule,2020-10-06T00:00:00,"USD 3,000,000 - 5,000,000",4350000.0,Christies,1950.0,oil on panel,,81.0,100.4,,,,,,,,,Oil Painting
+Pablo_Picasso,Joueur de flute et mangeur de pastèque,2020-10-06T00:00:00,"USD 5,000,000 - 7,000,000",5430000.0,Christies,1965.0,oil on canvas,,160.0,130.0,,,,,,,,,Oil Painting
+Pablo_Picasso,La femme aux bas bleus,2020-10-06T00:00:00,"USD 1,000,000 - 1,500,000",1470000.0,Christies,1901.0,oil on board laid down on canvas,,65.0,50.0,,,,,,,,,Oil Painting
+Pablo_Picasso,Le peintre et son modèle,2020-07-10T00:00:00,"GBP 2,500,000 - 3,500,000",2890073.0,Christies,1964.0,oil and ripolin on canvas,,96.84,129.54,,,,,,,,,Oil Painting
+Pablo_Picasso,Homme au chapeau assis,2021-06-30T00:00:00,"GBP 5,000,000 - 7,000,000",8161580.0,Christies,1972.0,oil and ripolin on canvas,,145.5,114.0,,,,,,,,,Oil Painting
+Pablo_Picasso,Nu couché à la libellule,2021-05-24T00:00:00,"HKD 52,000,000 - 68,000,000",,Christies,1968.0,oil on canvas,,97.0,162.0,,,,,,,,,Oil Painting
+Pablo_Picasso,Femme assise près d'une fenêtre (Marie-Thérèse),2021-05-13T00:00:00,Estimate on request,103410000.0,Christies,1932.0,oil on canvas,,146.0,114.0,,,,,,,,,Oil Painting
+Pablo_Picasso,Femme dans un fauteuil,2021-05-13T00:00:00,"USD 15,000,000 - 20,000,000",17191500.0,Christies,1941.0,oil on canvas,,100.01,80.96,,,,,,,,,Oil Painting
+Pablo_Picasso,Tête de femme,2021-05-13T00:00:00,"USD 2,500,000 - 3,500,000",4110000.0,Christies,1940.0,oil on paper laid down on canvas,,64.45,45.72,,,,,,,,,Oil Painting
+Pablo_Picasso,Femme nue couchée au collier (Marie-Thérèse),2021-03-23T00:00:00,"GBP 9,000,000 - 15,000,000",20171385.0,Christies,1932.0,oil on canvas,,40.64,40.64,,,,,,,,,Oil Painting
+Pablo_Picasso,Femme assise dans un fauteuil noir (Jacqueline),2021-03-23T00:00:00,"GBP 6,000,000 - 9,000,000",13360906.0,Christies,1962.0,oil on canvas,,130.4,97.8,,,,,,,,,Oil Painting
+Pablo_Picasso,Mousquetaire à la pipe II,2021-11-11T00:00:00,Estimate on request,34710000.0,Christies,1968.0,oil and ripolin on canvas,,146.0,96.5,,,,,,,,,Oil Painting
+Pablo_Picasso,Femme accroupie en costume turc II (Jacqueline),2021-11-11T00:00:00,"USD 20,000,000 - 30,000,000",25550000.0,Christies,1955.0,oil on canvas,,91.5,73.0,,,,,,,,,Oil Painting
+Pablo_Picasso,Homme à la pipe,2021-11-11T00:00:00,"USD 15,000,000 - 20,000,000",15430000.0,Christies,1968.0,oil and ripolin on canvas,,130.1,97.0,,,,,,,,,Oil Painting
+Pablo_Picasso,L'Étreinte,2021-06-30T00:00:00,"GBP 11,000,000 - 16,000,000",20398052.0,Christies,1969.0,oil on canvas,,113.6,146.0,,,,,,,,,Oil Painting
+Pablo_Picasso,Nu assis,2019-11-11T00:00:00,"USD 5,000,000 - 8,000,000",5609500.0,Christies,1969.0,oil on canvas,,130.3,89.0,,,,,,,,,Oil Painting
+Pablo_Picasso,Le Compotier,2019-10-18T00:00:00,"EUR 600,000 - 900,000",,Christies,1946.0,huile sur papier marouflé sur toile,,51.2,66.1,,,,,,,,,Oil Painting
+Pablo_Picasso,Mousquetaire. Buste,2019-10-17T00:00:00,"EUR 3,000,000 - 5,000,000",3822429.0,Christies,1967.0,huile sur toile,,81.0,65.0,,,,,,,,,Oil Painting
+Pablo_Picasso,"Nature morte - Journal, verre et paquet de tabac",2019-06-19T00:00:00,"GBP 350,000 - 550,000",540854.0,Christies,1921.0,oil on canvas,,20.0,31.0,,,,,,,,,Oil Painting
+Pablo_Picasso,Homme et femme nus,2019-06-18T00:00:00,"GBP 10,000,000 - 15,000,000",15700024.0,Christies,1968.0,oil and ripolin on canvas,,162.0,129.8,,,,,,,,,Oil Painting
+Pablo_Picasso,Nu allongé et tête d'homme de profil III,2019-06-18T00:00:00,"GBP 1,500,000 - 2,500,000",,Christies,1965.0,oil on canvas,,60.0,73.0,,,,,,,,,Oil Painting
+Pablo_Picasso,Le Peintre,2019-06-18T00:00:00,"GBP 1,500,000 - 2,000,000",2659339.0,Christies,1967.0,oil on canvas,,100.2,80.0,,,,,,,,,Oil Painting
+Pablo_Picasso,Femme au chat assise dans un fauteuil,2010-05-04T00:00:00,"USD 10,000,000 - 15,000,000",18002500.0,Christies,1964.0,oil on canvas,,130.0,81.0,,,,,,,,,Oil Painting
+Pablo_Picasso,Le peintre et son modèle,2010-05-04T00:00:00,"USD 10,000,000 - 14,000,000",10722500.0,Christies,1964.0,oil on canvas,,163.0,131.0,,,,,,,,,Oil Painting
+Pablo_Picasso,Tête,2010-05-04T00:00:00,"USD 6,000,000 - 9,000,000",6802500.0,Christies,1969.0,oil on canvas,,116.0,89.0,,,,,,,,,Oil Painting
+Pablo_Picasso,"Nude, Green Leaves and Bust",2010-05-04T00:00:00,Estimate on request,106482500.0,Christies,1932.0,oil on canvas,,162.0,130.0,,,,,,,,,Oil Painting
+Pablo_Picasso,Nature morte au citron,2010-05-04T00:00:00,"USD 200,000 - 300,000",290500.0,Christies,1947.0,oil on canvas,,14.0,17.8,,,,,,,,,Oil Painting
+Pablo_Picasso,Mousquetaire et petit personnage,2024-11-19T00:00:00,"USD 8,000,000 - 12,000,000",,Christies,1967.0,<i>mousquetaire et petit personnage</i><br> signed 'picasso' (lower left); dated '16.5.67.' (on the reverse)<br> oil and ripolin on canvas,,115.0,89.0,,,,,,,,,Oil Painting
+Pablo_Picasso,Nature morte au chien,2020-02-05T00:00:00,"GBP 4,000,000 - 6,000,000",5873885.0,Christies,1962.0,oil on canvas,,130.0,162.0,,,,,,,,,Oil Painting
+Pablo_Picasso,Intérieur au pot de fleurs,2020-02-05T00:00:00,"GBP 7,000,000 - 10,000,000",9414399.0,Christies,1953.0,oil on canvas,,130.0,96.8,,,,,,,,,Oil Painting
+Pablo_Picasso,Tête,2020-02-05T00:00:00,"GBP 800,000 - 1,200,000",1574319.0,Christies,1972.0,"oil, ripolin and oil stick on canvas",,80.96,65.09,,,,,,,,,Oil Painting
+Pablo_Picasso,Buste d’homme,2019-11-11T00:00:00,"USD 9,000,000 - 12,000,000",9355000.0,Christies,1968.0,oil on canvas,,129.86,80.96,,,,,,,,,Oil Painting
+Pablo_Picasso,Femme dans un fauteuil (Françoise),2019-11-11T00:00:00,"USD 12,000,000 - 18,000,000",13327500.0,Christies,1949.0,oil on canvas,,100.3,81.3,,,,,,,,,Oil Painting
+Pablo_Picasso,Verre et citron,2019-05-14T00:00:00,"USD 500,000 - 700,000",591000.0,Christies,1944.0,oil on canvas,,19.2,27.1,,,,,,,,,Oil Painting
+Pablo_Picasso,Nu couché et musicien,2019-05-14T00:00:00,"USD 1,000,000 - 1,500,000",975000.0,Christies,1967.0,oil and ripolin on canvas,,49.85,61.28,,,,,,,,,Oil Painting
+Pablo_Picasso,Claude à deux ans,2019-05-13T00:00:00,"USD 7,000,000 - 10,000,000",8674000.0,Christies,1949.0,oil on canvas,,129.86,96.52,,,,,,,,,Oil Painting
+Pablo_Picasso,Nu assis appuyé sur des coussins,2019-05-13T00:00:00,"USD 2,500,000 - 3,500,000",2535000.0,Christies,1964.0,oil on canvas,,54.0,73.0,,,,,,,,,Oil Painting
+Pablo_Picasso,La Lettre (La Réponse),2019-05-13T00:00:00,"USD 20,000,000 - 30,000,000",25245000.0,Christies,1923.0,oil on canvas,,100.3,81.0,,,,,,,,,Oil Painting
+Pablo_Picasso,Verre et pipe,2019-03-29T00:00:00,"EUR 700,000 - 900,000",740365.0,Christies,1917.0,huile sur toile,,22.2,45.5,,,,,,,,,Oil Painting
+Pablo_Picasso,Buste d'homme,2010-06-24T00:00:00,"GBP 250,000 - 350,000",864030.0,Christies,1969.0,oil on corrugated cardboard,,70.5,49.5,,,,,,,,,Oil Painting
+Pablo_Picasso,Buste d'homme,2010-06-24T00:00:00,"GBP 400,000 - 600,000",1369351.0,Christies,1969.0,oil on corrugated cardboard,,96.0,64.0,,,,,,,,,Oil Painting
+Pablo_Picasso,Tête de femme,2010-06-24T00:00:00,"GBP 300,000 - 400,000",1436408.0,Christies,1953.0,oil on canvas,,35.24,26.99,,,,,,,,,Oil Painting
+Pablo_Picasso,Portrait d'Angel Fernández de Soto,2010-06-23T00:00:00,"GBP 30,000,000 - 40,000,000",51516466.0,Christies,1903.0,oil on canvas,,70.3,55.3,,,,,,,,,Oil Painting
+Pablo_Picasso,Nature morte,2010-06-23T00:00:00,"GBP 3,000,000 - 5,000,000",4708711.0,Christies,1938.0,oil on canvas,,46.04,60.96,,,,,,,,,Oil Painting
+Pablo_Picasso,Buste de femme,2010-06-23T00:00:00,"GBP 500,000 - 700,000",2418119.0,Christies,1970.0,oil on canvas,,80.96,65.09,,,,,,,,,Oil Painting
+Pablo_Picasso,Buste de femme,2010-06-23T00:00:00,"GBP 700,000 - 1,000,000",1156633.0,Christies,1970.0,oil on corrugated cardboard,,151.45,65.09,,,,,,,,,Oil Painting
+Pablo_Picasso,Femme et fillettes,2010-05-12T00:00:00,"USD 5,500,000 - 7,500,000",6578500.0,Christies,1961.0,oil on canvas,,162.2,130.2,,,,,,,,,Oil Painting
+Pablo_Picasso,Femme à la robe rose,2010-05-12T00:00:00,"USD 5,500,000 - 7,500,000",4562500.0,Christies,1917.0,oil on canvas,,100.3,81.9,,,,,,,,,Oil Painting
+Pablo_Picasso,Homme à l'épée,2009-06-23T00:00:00,"GBP 5,000,000 - 7,000,000",9405345.0,Christies,1969.0,oil on canvas,,162.0,130.0,,,,,,,,,Oil Painting
+Pablo_Picasso,Nu assis et joueur de flûte,2009-06-23T00:00:00,"GBP 3,000,000 - 4,000,000",5560323.0,Christies,1967.0,oil on canvas,,96.84,129.86,,,,,,,,,Oil Painting
+Pablo_Picasso,Paysage à Juan-les-Pins,2009-05-07T00:00:00,"USD 500,000 - 700,000",542500.0,Christies,1924.0,oil on canvas,,18.4,33.0,,,,,,,,,Oil Painting
+Pablo_Picasso,Mousquetaire à la pipe,2009-05-06T00:00:00,"USD 12,000,000 - 18,000,000",14642500.0,Christies,1968.0,oil on canvas,,146.37,89.22,,,,,,,,,Oil Painting
+Pablo_Picasso,Germaine,2009-05-06T00:00:00,"USD 1,000,000 - 1,500,000",1594500.0,Christies,1900.0,oil on board laid down on cradled panel,,21.6,14.8,,,,,,,,,Oil Painting
+Pablo_Picasso,Femme au chapeau,2009-05-06T00:00:00,"USD 8,000,000 - 12,000,000",7754500.0,Christies,1971.0,oil on canvas,,194.63,129.86,,,,,,,,,Oil Painting
+Pablo_Picasso,Nature morte,2009-05-06T00:00:00,"USD 5,000,000 - 7,000,000",5458500.0,Christies,1934.0,oil on canvas,,81.0,99.6,,,,,,,,,Oil Painting
+Pablo_Picasso,"Nature morte, fruits et pot",2019-02-27T00:00:00,"GBP 1,000,000 - 1,500,000",1590025.0,Christies,1938.0,oil and ripolin on canvas,,46.04,54.93,,,,,,,,,Oil Painting
+Pablo_Picasso,Nature morte au crâne de taureau,2019-02-27T00:00:00,"GBP 4,000,000 - 6,000,000",6230473.0,Christies,1942.0,oil on canvas,,65.09,80.01,,,,,,,,,Oil Painting
+Pablo_Picasso,Le miroir,2019-02-27T00:00:00,"GBP 1,000,000 - 1,500,000",1590025.0,Christies,2047.0,oil and sand on canvas,,60.96,49.85,,,,,,,,,Oil Painting
+Pablo_Picasso,Tête de femme (Jacqueline),2010-02-02T00:00:00,"GBP 3,000,000 - 4,000,000",12929920.0,Christies,1963.0,oil on canvas,,90.2,58.4,,,,,,,,,Oil Painting
+Pablo_Picasso,Nature morte à la cruche,2010-02-02T00:00:00,"GBP 500,000 - 800,000",1102080.0,Christies,1937.0,oil on canvas,,46.04,55.56,,,,,,,,,Oil Painting
+Pablo_Picasso,Pipe et verre,2010-02-02T00:00:00,"GBP 500,000 - 700,000",1066346.0,Christies,1918.0,oil and sand on canvas,,26.99,21.91,,,,,,,,,Oil Painting
+Pablo_Picasso,Homme assis sur une chaise,2010-02-02T00:00:00,"GBP 3,500,000 - 5,500,000",9713891.0,Christies,1956.0,oil on canvas,,162.6,130.1,,,,,,,,,Oil Painting
+Pablo_Picasso,Mère et enfant,2009-11-03T00:00:00,"USD 600,000 - 800,000",1082500.0,Christies,1925.0,oil on canvas,,23.8,19.0,,,,,,,,,Oil Painting
+Pablo_Picasso,"Visage féminin, profil",2009-11-03T00:00:00,"USD 600,000 - 900,000",1314500.0,Christies,1960.0,oil on canvas,,54.93,46.04,,,,,,,,,Oil Painting
+Pablo_Picasso,Portrait de Françoise Gilot,2018-11-11T18:59:00,"USD 3,000,000 - 5,000,000",6387500.0,Christies,2048.0,oil on canvas,,65.09,46.04,,,,,,,,,Oil Painting
+Pablo_Picasso,Buste de femme (Dora Maar),2018-11-11T18:59:00,"USD 5,000,000 - 8,000,000",7737500.0,Christies,1939.0,oil on panel,,59.9,45.2,,,,,,,,,Oil Painting
+Pablo_Picasso,Buste de femme nue (Tête de profil),2018-11-11T18:59:00,"USD 5,000,000 - 8,000,000",6612500.0,Christies,1963.0,oil on canvas,,91.76,60.01,,,,,,,,,Oil Painting
+Pablo_Picasso,Buste de femme au voile bleu,2018-11-11T18:59:00,"USD 8,000,000 - 12,000,000",7625000.0,Christies,1924.0,buste de femme au voile bleu,,61.0,50.1,,,,,,,,,Oil Painting
+Pablo_Picasso,La Lampe,2018-11-11T18:59:00,"USD 25,000,000 - 35,000,000",29562500.0,Christies,1931.0,oil on canvas,,162.5,130.4,,,,,,,,,Oil Painting
+Pablo_Picasso,Mandoline sur une table,2018-11-11T18:59:00,"USD 4,000,000 - 6,000,000",4212500.0,Christies,1922.0,oil on canvas,,82.2,100.4,,,,,,,,,Oil Painting
+Pablo_Picasso,Tête de femme,2018-11-11T18:59:00,"USD 2,500,000 - 4,500,000",2412500.0,Christies,1952.0,oil on canvas,,55.1,46.2,,,,,,,,,Oil Painting
+Pablo_Picasso,Nu les bras croisés,2018-11-11T18:59:00,"USD 4,000,000 - 6,000,000",5037500.0,Christies,1960.0,oil on canvas,,100.2,80.8,,,,,,,,,Oil Painting
+Pablo_Picasso,La danse,2018-10-18T00:00:00,"EUR 700,000 - 1,000,000",1119908.0,Christies,1956.0,huile et grattage sur toile,,80.8,64.7,,,,,,,,,Oil Painting
+Pablo_Picasso,Juan-les-Pins,2009-02-05T00:00:00,"GBP 150,000 - 200,000",782594.0,Christies,1924.0,oil on canvas,,24.1,41.0,,,,,,,,,Oil Painting
+Pablo_Picasso,Buste d'homme,2009-02-04T00:00:00,"GBP 1,200,000 - 1,800,000",2161594.0,Christies,1971.0,oil on canvas.,,130.1,97.5,,,,,,,,,Oil Painting
+Pablo_Picasso,La Coiffure,2008-12-01T00:00:00,"EUR 1,000,000 - 1,500,000",1067895.0,Christies,2021.0,huile sur toile,,18.3,16.2,,,,,,,,,Oil Painting
+Pablo_Picasso,Buste d'homme,2018-05-16T00:00:00,"USD 1,200,000 - 1,800,000",1572500.0,Christies,1969.0,oil on corrugated cardboard,,95.3,65.0,,,,,,,,,Oil Painting
+Pablo_Picasso,L'Atelier,2018-05-15T00:00:00,"USD 6,000,000 - 9,000,000",9537500.0,Christies,1955.0,oil on canvas,,115.89,88.9,,,,,,,,,Oil Painting
+Pablo_Picasso,L’Huilier,2018-05-15T00:00:00,"USD 1,800,000 - 2,500,000",3132500.0,Christies,1910.0,oil on canvas,,24.1,19.2,,,,,,,,,Oil Painting
+Pablo_Picasso,Nature morte: Tête de taureau,2018-05-15T00:00:00,"USD 5,000,000 - 7,000,000",7512500.0,Christies,1939.0,oil on canvas,,80.96,101.28,,,,,,,,,Oil Painting
+Pablo_Picasso,Compotier avec fruits,2018-05-15T00:00:00,"USD 1,500,000 - 2,500,000",1812500.0,Christies,1918.0,oil on canvas,,27.0,35.0,,,,,,,,,Oil Painting
+Pablo_Picasso,Portrait d'Inès,2018-05-15T00:00:00,"USD 3,500,000 - 4,500,000",7962500.0,Christies,1942.0,oil on canvas,,55.3,38.3,,,,,,,,,Oil Painting
+Pablo_Picasso,Fillette à la corbeille fleurie,2018-05-08T00:00:00,Estimate on request,115000000.0,Christies,1905.0,oil on canvas,,154.62,66.04,,,,,,,,,Oil Painting
+Pablo_Picasso,Le Peintre (tête),2008-11-06T00:00:00,"USD 700,000 - 900,000",842500.0,Christies,1964.0,oil on canvas,,40.96,33.02,,,,,,,,,Oil Painting
+Pablo_Picasso,Figure,2008-11-06T00:00:00,"USD 300,000 - 500,000",468000.0,Christies,1929.0,oil on canvas,,54.0,65.1,,,,,,,,,Oil Painting
+Pablo_Picasso,Scène mythologique,2008-11-06T00:00:00,"USD 800,000 - 1,200,000",722500.0,Christies,1921.0,oil on canvas,,21.0,16.0,,,,,,,,,Oil Painting
+Pablo_Picasso,Mousquetaire et femme à la fleur,2008-11-06T00:00:00,"USD 8,000,000 - 10,000,000",9042500.0,Christies,1967.0,oil on canvas,,129.8,162.0,,,,,,,,,Oil Painting
+Pablo_Picasso,"Nu au chapeau, buste",2008-11-06T00:00:00,"USD 3,000,000 - 4,000,000",3722500.0,Christies,1965.0,oil on canvas,,92.2,73.2,,,,,,,,,Oil Painting
+Pablo_Picasso,La carafe (Bouteille et verre),2008-06-24T00:00:00,"GBP 2,000,000 - 3,000,000",7345223.0,Christies,1911.0,oil on canvas,,55.2,38.1,,,,,,,,,Oil Painting
+Pablo_Picasso,Compotier et guitare,2008-06-24T00:00:00,"GBP 3,000,000 - 4,000,000",8115663.0,Christies,1924.0,oil on canvas,,97.1,130.8,,,,,,,,,Oil Painting
+Pablo_Picasso,Nature morte. Poissons et poêle,2008-06-24T00:00:00,"GBP 400,000 - 600,000",1134532.0,Christies,1936.0,oil on canvas,,50.0,61.0,,,,,,,,,Oil Painting
+Pablo_Picasso,"Guitare, bouteille et compotier",2018-10-17T00:00:00,"EUR 2,000,000 - 3,000,000",4613112.0,Christies,1922.0,huile sur toile,,122.0,97.5,,,,,,,,,Oil Painting
+Pablo_Picasso,Femme dans un fauteuil (Dora Maar),2018-06-20T00:00:00,Estimate on request,25667244.0,Christies,1942.0,oil on canvas,,91.44,73.03,,,,,,,,,Oil Painting
+Pablo_Picasso,L’as de trèfle,2018-06-20T00:00:00,"GBP 800,000 - 1,200,000",1363991.0,Christies,1919.0,oil and sand on canvas,,55.6,46.4,,,,,,,,,Oil Painting
+Pablo_Picasso,Nature morte à l'oiseau en cage,2017-11-14T00:00:00,"USD 1,000,000 - 1,500,000",1092500.0,Christies,1947.0,oil on canvas,,60.01,72.71,,,,,,,,,Oil Painting
+Pablo_Picasso,Buste de femme au chapeau (Dora Maar),2017-11-13T00:00:00,"USD 4,000,000 - 6,000,000",5937500.0,Christies,1943.0,oil on canvas,,73.34,60.01,,,,,,,,,Oil Painting
+Pablo_Picasso,Femme accroupie (Jacqueline),2017-11-13T00:00:00,"USD 20,000,000 - 30,000,000",36875000.0,Christies,1954.0,oil on canvas,,146.0,114.0,,,,,,,,,Oil Painting
+Pablo_Picasso,Le Repos (Marie-Thérèse),2017-11-13T00:00:00,"USD 10,000,000 - 15,000,000",11562500.0,Christies,1932.0,oil on canvas,,27.3,46.3,,,,,,,,,Oil Painting
+Pablo_Picasso,La villa au palmier,2017-11-13T00:00:00,"USD 2,000,000 - 4,000,000",5037500.0,Christies,1951.0,oil on panel,,88.9,115.89,,,,,,,,,Oil Painting
+Pablo_Picasso,Figure (de femme inspirée par la guerre d’Espagne),2017-11-13T00:00:00,"USD 15,000,000 - 20,000,000",16093750.0,Christies,1937.0,oil on canvas,,38.1,46.04,,,,,,,,,Oil Painting
+Pablo_Picasso,Tête d'homme,2017-10-20T00:00:00,"EUR 600,000 - 800,000",858103.0,Christies,1964.0,huile sur toile,,35.1,27.0,,,,,,,,,Oil Painting
+Pablo_Picasso,La fenê tre de l’atelier,2017-10-03T00:00:00,"GBP 700,000 - 1,000,000",1136820.0,Christies,1958.0,oil on canvas,,34.9,27.0,,,,,,,,,Oil Painting
+Pablo_Picasso,Maisons à Vallauris,2008-05-07T00:00:00,"USD 500,000 - 700,000",825000.0,Christies,1953.0,oil on canvas,,49.6,61.0,,,,,,,,,Oil Painting
+Pablo_Picasso,Claude et Paloma dessinant,2008-05-06T00:00:00,"USD 7,000,000 - 10,000,000",8889000.0,Christies,1954.0,oil on canvas,,91.76,72.71,,,,,,,,,Oil Painting
+Pablo_Picasso,"Partition, Guitare, Compotier",2008-05-06T00:00:00,"USD 12,000,000 - 16,000,000",12361000.0,Christies,1924.0,oil on canvas,,97.1,130.1,,,,,,,,,Oil Painting
+Pablo_Picasso,Femme au chapeau,2008-02-04T00:00:00,"GBP 2,500,000 - 3,500,000",11272909.0,Christies,1938.0,oil on canvas,,61.6,47.6,,,,,,,,,Oil Painting
+Pablo_Picasso,Homme assis au fusil,2008-02-04T00:00:00,"GBP 5,000,000 - 7,000,000",11052662.0,Christies,1969.0,oil on canvas,,146.0,114.0,,,,,,,,,Oil Painting
+Pablo_Picasso,L'atelier,2008-02-04T00:00:00,"GBP 1,300,000 - 1,800,000",3123770.0,Christies,1955.0,oil on canvas,,80.96,65.09,,,,,,,,,Oil Painting
+Pablo_Picasso,Tête d'homme,2008-02-04T00:00:00,"GBP 450,000 - 650,000",1692165.0,Christies,1968.0,oil on canvas,,73.0,60.0,,,,,,,,,Oil Painting
+Pablo_Picasso,Le cirque,2018-02-27T00:00:00,"GBP 600,000 - 900,000",766496.0,Christies,1933.0,oil on canvas,,33.34,41.27,,,,,,,,,Oil Painting
+Pablo Picasso,Buste d'homme,2024-11-19T22:00:00,,3085000.0,Phillips,1964.0,oil,,73.0,53.3,2024-11-19T22:00:00,3000000.0,5000000.0,3085000.0,$,3000000.0,5000000.0,,Oil Painting
+Pablo Picasso,Buste d'homme,2024-11-19T22:00:00,,3085000.0,Phillips,1964.0,oil,,73.0,53.3,2024-11-19T22:00:00,3000000.0,5000000.0,3085000.0,$,3000000.0,5000000.0,,Oil Painting
+Pablo Picasso,Tête d'homme et nu assis,2023-11-14T23:15:00,,2238000.0,Phillips,1964.0,oil,,45.4,54.9,2023-11-14T23:15:00,1800000.0,2500000.0,2238000.0,$,1800000.0,2500000.0,,Oil Painting
+Pablo Picasso,Femme en corset lisant un livre,2023-11-14T23:00:00,,14762500.0,Phillips,1914.0,oil,,91.8,60.3,2023-11-14T23:00:00,15000000.0,20000000.0,14762500.0,$,15000000.0,20000000.0,,Oil Painting
+Pablo Picasso,Tête de femme au chignon,2023-05-17T21:00:00,,7320000.0,Phillips,1952.0,oil,,73.0,59.7,2023-05-17T21:00:00,6000000.0,9000000.0,7320000.0,$,6000000.0,9000000.0,,Oil Painting
+Pablo Picasso,Tête de femme au chignon,2023-05-17T21:00:00,,7320000.0,Phillips,1952.0,oil,,73.0,59.7,2023-05-17T21:00:00,6000000.0,9000000.0,7320000.0,$,6000000.0,9000000.0,,Oil Painting
+Pablo Picasso,Tête de femme au chignon,2023-05-17T21:00:00,,7320000.0,Phillips,1952.0,oil,,73.0,59.7,2023-05-17T21:00:00,6000000.0,9000000.0,7320000.0,$,6000000.0,9000000.0,,Oil Painting
+Pablo Picasso,Paysage au pin,2022-11-15T23:00:00,,1482000.0,Phillips,1953.0,oil,,38.1,55.2,2022-11-15T23:00:00,1200000.0,1800000.0,1482000.0,$,1200000.0,1800000.0,,Oil Painting
+Pablo Picasso,Mousquetaire buste,2022-11-15T23:00:00,,2450000.0,Phillips,1968.0,oil,,92.4,36.5,2022-11-15T23:00:00,2500000.0,3500000.0,2450000.0,$,2500000.0,3500000.0,,Oil Painting
+Pablo Picasso,Figures et plante,2022-05-18T23:00:00,,10267000.0,Phillips,1932.0,oil,,18.4,23.8,2022-05-18T23:00:00,4000000.0,6000000.0,10267000.0,$,4000000.0,6000000.0,,Oil Painting
+Pablo Picasso,Figures et plante,2022-05-18T23:00:00,,10267000.0,Phillips,1932.0,oil,,18.4,23.8,2022-05-18T23:00:00,4000000.0,6000000.0,10267000.0,$,4000000.0,6000000.0,,Oil Painting
+Pablo Picasso,Figures et plante,2022-05-18T23:00:00,,10267000.0,Phillips,1932.0,oil,,18.4,23.8,2022-05-18T23:00:00,4000000.0,6000000.0,10267000.0,$,4000000.0,6000000.0,,Oil Painting
+Pablo Picasso,Figures et plante,2022-05-18T23:00:00,,10267000.0,Phillips,1932.0,oil,,18.4,23.8,2022-05-18T23:00:00,4000000.0,6000000.0,10267000.0,$,4000000.0,6000000.0,,Oil Painting
+Pablo Picasso,Nu couché et musicien,2021-06-08T10:00:00,,1513686.96,Phillips,1967.0,oil,,50.0,61.0,2021-06-08T10:00:00,9000000.0,14000000.0,11745000.0,HK$,1159913.38,1804309.7,,Oil Painting
+Pablo Picasso,Deux personnages,2020-12-08T01:00:00,,2147500.0,Phillips,1939.0,oil,,41.0,33.0,2020-12-08T00:00:00,1200000.0,1800000.0,2147500.0,$,1200000.0,1800000.0,,Oil Painting
+Pablo Picasso,Joie de vivre (Joy of living),2020-06-15T18:00:00,,11250.0,Phillips,1956.0,oil,,,,2020-06-05T16:00:00,5000.0,7000.0,11250.0,$,5000.0,7000.0,,Oil Painting
+Pablo Picasso,Femme assise dans un fauteuil,2019-11-14T07:00:00,,4820000.0,Phillips,1948.0,oil,,101.0,81.0,2019-11-14T05:00:00,5000000.0,7000000.0,4820000.0,$,5000000.0,7000000.0,,Oil Painting
+Pablo Picasso,Homme assis (Mardi gras),2019-06-27T01:00:00,,3904761.67,Phillips,1972.0,oil,,129.5,97.2,2019-06-26T23:00:00,2500000.0,3500000.0,3075000.0,£,3174602.99,4444444.18,,Oil Painting
+Pablo Picasso,Homme assis (Mardi gras),2019-06-27T01:00:00,,3904761.67,Phillips,1972.0,oil,,129.5,97.2,2019-06-26T23:00:00,2500000.0,3500000.0,3075000.0,£,3174602.99,4444444.18,,Oil Painting
+Pablo Picasso,Homme assis (Mardi gras),2019-06-27T01:00:00,,3904761.67,Phillips,1972.0,oil,,129.5,97.2,2019-06-26T23:00:00,2500000.0,3500000.0,3075000.0,£,3174602.99,4444444.18,,Oil Painting
+Pablo Picasso,Vase de fleurs,2019-06-27T01:00:00,,3066666.48,Phillips,1904.0,oil,,65.0,50.3,2019-06-26T23:00:00,2500000.0,3500000.0,2415000.0,£,3174602.99,4444444.18,,Oil Painting
+Pablo Picasso,Homme assis (Mardi gras),2019-06-27T01:00:00,,3904761.67,Phillips,1972.0,oil,,129.5,97.2,2019-06-26T23:00:00,2500000.0,3500000.0,3075000.0,£,3174602.99,4444444.18,,Oil Painting
+Pablo Picasso,Nature morte,2015-11-08T07:00:00,,965000.0,Phillips,1937.0,oil,,15.9,22.2,2015-11-08T05:00:00,900000.0,1200000.0,965000.0,$,900000.0,1200000.0,,Oil Painting
+Pablo Picasso,Nature morte,2015-11-08T07:00:00,,965000.0,Phillips,1937.0,oil,,15.9,22.2,2015-11-08T05:00:00,900000.0,1200000.0,965000.0,$,900000.0,1200000.0,,Oil Painting
+Pablo Picasso,Nature morte,2015-11-08T07:00:00,,965000.0,Phillips,1937.0,oil,,15.9,22.2,2015-11-08T05:00:00,900000.0,1200000.0,965000.0,$,900000.0,1200000.0,,Oil Painting
+Pablo Picasso,Buste de Mousquetaire,2015-05-14T06:00:00,,2629000.0,Phillips,1968.0,oil,,81.4,60.8,2015-05-14T04:00:00,2000000.0,3000000.0,2629000.0,$,2000000.0,3000000.0,,Oil Painting
+Pablo Picasso,,2024-11-19T09:00:00,,9950000.0,sotheby's,1949.0,oil,1.0,61.0,50.0,,,,,,9000000.0,12000000.0,USD,Oil Painting
+Pablo Picasso,,2024-11-19T09:00:00,,1920000.0,sotheby's,1969.0,oil,1.0,114.3,65.1,,,,,,1500000.0,2500000.0,USD,Oil Painting
+Pablo Picasso,,2024-11-19T09:00:00,,,sotheby's,1939.0,oil,1.0,33.1,55.1,,,,,,1500000.0,2000000.0,USD,Oil Painting
+Pablo Picasso,,2024-11-19T09:00:00,,,sotheby's,1968.0,oil,1.0,81.0,65.0,,,,,,3000000.0,4000000.0,USD,Oil Painting
+Pablo Picasso,,2024-11-19T09:00:00,,1800000.0,sotheby's,1917.0,oil,1.0,39.4,49.4,,,,,,1500000.0,2500000.0,USD,Oil Painting
+Pablo Picasso,,2024-11-19T08:00:00,,24800000.0,sotheby's,1925.0,oil,1.0,131.0,97.8,,,,,,,,USD,Oil Painting
+Pablo Picasso,,2024-06-26T02:00:00,,13609932.0,sotheby's,1922.0,oil,1.0,80.7,116.3,,,,,,10000000.0,15000000.0,GBP,Oil Painting
+Pablo Picasso,,2024-06-26T02:00:00,,,sotheby's,1953.0,oil,1.0,55.0,45.7,,,,,,2800000.0,3500000.0,GBP,Oil Painting
+Pablo Picasso,,2024-06-26T02:00:00,,7305984.0,sotheby's,1960.0,oil,1.0,100.0,81.0,,,,,,3500000.0,5000000.0,GBP,Oil Painting
+Pablo Picasso,,2024-06-26T19:00:00,,,sotheby's,1900.0,oil,1.0,13.0,20.0,,,,,,40000.0,60000.0,GBP,Oil Painting
+Pablo Picasso,,2024-05-16T08:00:00,,1996000.0,sotheby's,1969.0,oil,1.0,66.1,51.6,,,,,,1200000.0,1800000.0,USD,Oil Painting
+Pablo Picasso,,2024-05-16T08:00:00,,1814500.0,sotheby's,1971.0,oil,1.0,55.3,46.2,,,,,,1200000.0,1800000.0,USD,Oil Painting
+Pablo Picasso,,2024-05-16T08:00:00,,,sotheby's,1941.0,oil,1.0,61.0,38.0,,,,,,6000000.0,8000000.0,USD,Oil Painting
+Pablo Picasso,,2024-05-16T08:00:00,,12743700.0,sotheby's,1969.0,oil,1.0,116.4,89.6,,,,,,8000000.0,12000000.0,USD,Oil Painting
+Pablo Picasso,,2024-05-16T08:00:00,,3500000.0,sotheby's,1901.0,oil,1.0,46.3,55.5,,,,,,5000000.0,7000000.0,USD,Oil Painting
+Pablo Picasso,,2024-05-17T03:00:00,,1512000.0,sotheby's,1939.0,oil,1.0,28.8,43.0,,,,,,1200000.0,1800000.0,USD,Oil Painting
+Pablo Picasso,,2024-05-17T03:00:00,,,sotheby's,1965.0,oil,1.0,38.2,46.2,,,,,,1500000.0,2000000.0,USD,Oil Painting
+Pablo Picasso,,2024-04-05T20:00:00,,10055180.35,sotheby's,1963.0,oil,1.0,92.0,60.0,,,,,,66000000.0,90000000.0,HKD,Oil Painting
+Pablo Picasso,,2024-03-07T03:00:00,,17476985.39,sotheby's,1968.0,oil,1.0,162.7,114.5,,,,,,8000000.0,12000000.0,GBP,Oil Painting
+Pablo Picasso,,2023-11-14T09:00:00,,23463500.0,sotheby's,1932.0,oil,1.0,97.1,130.1,,,,,,,,USD,Oil Painting
+Pablo Picasso,,2023-11-14T09:00:00,,4658000.0,sotheby's,1967.0,oil,1.0,57.0,42.5,,,,,,4000000.0,6000000.0,USD,Oil Painting
+Pablo Picasso,,2023-11-14T09:00:00,,1330500.0,sotheby's,1933.0,oil,1.0,46.4,38.1,,,,,,1500000.0,2500000.0,USD,Oil Painting
+Pablo Picasso,,2023-11-14T09:00:00,,3811000.0,sotheby's,1912.0,oil,1.0,24.0,14.0,,,,,,3000000.0,5000000.0,USD,Oil Painting
+Pablo Picasso,,2023-11-15T04:00:00,,952500.0,sotheby's,1925.0,oil,1.0,13.5,57.0,,,,,,300000.0,500000.0,USD,Oil Painting
+Pablo Picasso,,2023-11-15T04:00:00,,1875000.0,sotheby's,1938.0,oil,1.0,34.0,46.0,,,,,,1500000.0,2000000.0,USD,Oil Painting
+Pablo Picasso,,2023-11-15T04:00:00,,,sotheby's,1969.0,oil,1.0,65.4,50.2,,,,,,500000.0,700000.0,USD,Oil Painting
+Pablo Picasso,,2023-11-09T08:00:00,,139363500.0,sotheby's,1932.0,oil,1.0,130.0,97.0,,,,,,,,USD,Oil Painting
+Pablo Picasso,,2023-10-20T02:00:00,,645352.4304,sotheby's,,oil,1.0,,,,,,,,500000.0,700000.0,EUR,Oil Painting
+Pablo Picasso,,2023-10-17T22:45:00,,1163145.375,sotheby's,1897.0,oil,1.0,60.4,82.2,,,,,,100000.0,150000.0,GBP,Oil Painting
+Pablo Picasso,,2023-10-06T11:30:00,,,sotheby's,1945.0,oil,1.0,65.5,50.3,,,,,,2400000.0,3500000.0,HKD,Oil Painting
+Pablo Picasso,,2023-06-28T01:00:00,,3839340.875,sotheby's,1965.0,oil,1.0,89.0,116.0,,,,,,2500000.0,3500000.0,GBP,Oil Painting
+Pablo Picasso,,2023-05-18T03:30:00,,1270000.0,sotheby's,1900.0,oil,1.0,55.2,46.4,,,,,,1000000.0,1500000.0,USD,Oil Painting
+Pablo Picasso,,2023-05-17T07:00:00,,7803000.0,sotheby's,1965.0,oil,1.0,128.3,162.0,,,,,,7000000.0,10000000.0,USD,Oil Painting
+Pablo Picasso,,2023-05-17T08:00:00,,15846000.0,sotheby's,1939.0,oil,1.0,46.4,38.1,,,,,,15000000.0,20000000.0,USD,Oil Painting
+Pablo Picasso,,2023-05-17T08:00:00,,11000000.0,sotheby's,1932.0,oil,1.0,27.0,35.0,,,,,,12000000.0,18000000.0,USD,Oil Painting
+Pablo Picasso,,2023-05-17T08:00:00,,21240000.0,sotheby's,1964.0,oil,1.0,130.0,194.7,,,,,,20000000.0,30000000.0,USD,Oil Painting
+Pablo Picasso,,2023-04-20T01:00:00,,1510305.622,sotheby's,,oil,1.0,2.0,41.0,,,,,,400000.0,600000.0,EUR,Oil Painting
+Pablo Picasso,,2023-04-19T22:00:00,,59965.2217,sotheby's,,oil,1.0,23.6,27.2,,,,,,1000.0,2000.0,GBP,Oil Painting
+Pablo Picasso,,2023-04-19T22:00:00,,44184.9002,sotheby's,,oil,1.0,13.4,19.0,,,,,,100.0,200.0,GBP,Oil Painting
+Pablo Picasso,,2023-04-19T22:00:00,,44184.9002,sotheby's,,oil,1.0,14.7,29.3,,,,,,2000.0,3000.0,GBP,Oil Painting
+Pablo Picasso,,2023-04-20T00:00:00,,1576566.311,sotheby's,,oil,1.0,,,,,,,,800000.0,1200000.0,EUR,Oil Painting
+Pablo Picasso,,2023-04-05T18:30:00,,3911180.0,sotheby's,1965.0,oil,1.0,100.0,81.5,,,,,,25000000.0,40000000.0,HKD,Oil Painting
+Pablo Picasso,,2023-04-05T18:30:00,,11859220.1,sotheby's,1948.0,oil,1.0,92.0,73.0,,,,,,,,HKD,Oil Painting
+Pablo Picasso,,2023-03-02T04:00:00,,1191684.866,sotheby's,1933.0,oil,1.0,10.2,18.1,,,,,,800000.0,1200000.0,GBP,Oil Painting
+Pablo Picasso,,2023-03-02T04:00:00,,21761301.27,sotheby's,1938.0,oil,1.0,73.3,60.0,,,,,,12000000.0,18000000.0,GBP,Oil Painting
+Pablo Picasso,,2022-11-15T08:30:00,,3025000.0,sotheby's,1965.0,oil,1.0,54.0,80.6,,,,,,2500000.0,3500000.0,USD,Oil Painting
+Pablo Picasso,,2022-11-15T08:30:00,,4648000.0,sotheby's,1962.0,oil,1.0,105.0,75.8,,,,,,3000000.0,4000000.0,USD,Oil Painting
+Pablo Picasso,,2022-11-15T08:30:00,,6758900.0,sotheby's,1960.0,oil,1.0,114.3,146.0,,,,,,6000000.0,8000000.0,USD,Oil Painting
+Pablo Picasso,,2022-11-15T08:30:00,,37092500.0,sotheby's,1919.0,oil,1.0,100.0,80.7,,,,,,,,USD,Oil Painting
+Pablo Picasso,,2022-11-16T04:30:00,,819000.0,sotheby's,1944.0,oil,1.0,19.2,27.1,,,,,,550000.0,700000.0,USD,Oil Painting
+Pablo Picasso,,2022-11-16T04:30:00,,504000.0,sotheby's,1945.0,oil,1.0,16.2,27.3,,,,,,400000.0,600000.0,USD,Oil Painting
+Pablo Picasso,,2022-11-15T07:30:00,,9976100.0,sotheby's,1927.0,oil,1.0,130.5,97.2,,,,,,15000000.0,20000000.0,USD,Oil Painting
+Pablo Picasso,,2022-10-26T02:30:00,,3048901.38,sotheby's,,oil,1.0,2.0,47.0,,,,,,2000000.0,3000000.0,EUR,Oil Painting
+Pablo Picasso,,2022-10-07T19:30:00,,9726353.89,sotheby's,1965.0,oil,1.0,100.0,73.0,,,,,,60000000.0,80000000.0,HKD,Oil Painting
+Pablo Picasso,,2022-06-30T22:00:00,,840733.74,sotheby's,,oil,1.0,65.3,80.7,,,,,,550000.0,700000.0,GBP,Oil Painting
+Pablo Picasso,,2022-05-18T08:00:00,,2167500.0,sotheby's,1936.0,oil,1.0,49.8,61.3,,,,,,1500000.0,2000000.0,USD,Oil Painting
+Pablo Picasso,,2022-05-18T08:00:00,,5132000.0,sotheby's,1967.0,oil,1.0,99.8,80.5,,,,,,4000000.0,6000000.0,USD,Oil Painting
+Pablo Picasso,,2022-05-18T08:00:00,,14112500.0,sotheby's,1969.0,oil,1.0,162.0,130.0,,,,,,12000000.0,18000000.0,USD,Oil Painting
+Pablo Picasso,,2022-05-18T08:00:00,,67541000.0,sotheby's,1932.0,oil,1.0,129.9,161.7,,,,,,60000000.0,80000000.0,USD,Oil Painting
+Pablo Picasso,,2022-05-19T03:00:00,,1071000.0,sotheby's,1967.0,oil,1.0,60.0,73.0,,,,,,800000.0,1200000.0,USD,Oil Painting
+Pablo Picasso,,2022-05-19T03:00:00,,2712000.0,sotheby's,1937.0,oil,1.0,38.1,46.0,,,,,,1500000.0,2000000.0,USD,Oil Painting
+Pablo Picasso,,2022-04-22T01:00:00,,1112989.69,sotheby's,,oil,1.0,,,,,,,,200000.0,300000.0,EUR,Oil Painting
+Pablo Picasso,,2022-04-22T01:00:00,,4482297.262,sotheby's,,oil,1.0,,,,,,,,2500000.0,3200000.0,EUR,Oil Painting
+Pablo Picasso,,2022-04-22T01:00:00,,1873402.622,sotheby's,,oil,1.0,,,,,,,,1400000.0,1800000.0,EUR,Oil Painting
+Pablo Picasso,,2022-04-27T19:00:00,,21594273.2,sotheby's,,oil,1.0,60.0,45.5,,,,,,,,HKD,Oil Painting
+Pablo Picasso,,2022-04-15T01:00:00,,189000.0,sotheby's,1965.0,oil,1.0,64.8,46.4,,,,,,45000.0,55000.0,USD,Oil Painting
+Pablo Picasso,,2022-03-04T00:00:00,,302799.7728,sotheby's,,oil,1.0,14.4,29.5,,,,,,180000.0,250000.0,GBP,Oil Painting
+Pablo Picasso,,2022-03-04T00:00:00,,588777.336,sotheby's,1914.0,oil,1.0,24.6,16.2,,,,,,350000.0,550000.0,GBP,Oil Painting
+Pablo Picasso,,2022-03-03T02:00:00,,16033835.76,sotheby's,,oil,1.0,61.0,50.0,,,,,,10000000.0,15000000.0,GBP,Oil Painting
+Pablo Picasso,,2004-05-06T08:00:53,,104168000.0,sotheby's,,Oil,1.0,,,,,,,,70000000.0,70000000.0,USD,Oil Painting
+Pablo Picasso,,2004-05-07T08:00:09,,14792000.0,sotheby's,,Oil,1.0,,,,,,,,10000000.0,15000000.0,USD,Oil Painting
+Pablo Picasso,,2007-05-09T08:00:06,,15160000.0,sotheby's,,Oil,1.0,,,,,,,,14000000.0,18000000.0,USD,Oil Painting
+Pablo Picasso,,2012-11-09T12:00:00,,17218500.0,sotheby's,,Oil,1.0,,,,,,,,15000000.0,20000000.0,USD,Oil Painting
+Pablo Picasso,,2008-05-08T11:00:00,,17401000.0,sotheby's,,Oil,1.0,,,,,,,,10000000.0,15000000.0,USD,Oil Painting
+Pablo Picasso,,2013-11-07T13:59:59,,30965000.0,sotheby's,,Oil,1.0,,,,,,,,12000000.0,18000000.0,USD,Oil Painting
+Pablo Picasso,,2013-11-07T13:59:59,,39925000.0,sotheby's,,Oil,1.0,,,,,,,,20000000.0,30000000.0,USD,Oil Painting
+Pablo Picasso,,2013-02-06T07:00:00,,44808462.93,sotheby's,,oil,1.0,,,,,,,,25000000.0,35000000.0,GBP,Oil Painting
+Pablo Picasso,,2015-06-25T06:00:00,,25747004.28,sotheby's,,oil,1.0,,,,,,,,13000000.0,18000000.0,GBP,Oil Painting
+Pablo Picasso,,2021-10-09T19:00:00,,24618337.55,sotheby's,,oil,1.0,92.2,73.0,,,,,,150000000.0,230000000.0,HKD,Oil Painting
+Pablo Picasso,,2021-06-29T23:00:00,,2539867.98,sotheby's,,oil,1.0,81.0,65.0,,,,,,1200000.0,1800000.0,GBP,Oil Painting
+Pablo Picasso,,2021-06-29T23:00:00,,3127646.171,sotheby's,,oil,1.0,46.0,55.0,,,,,,1500000.0,2000000.0,GBP,Oil Painting
+Pablo Picasso,,2021-06-29T23:00:00,,4890980.744,sotheby's,,oil,1.0,50.2,61.0,,,,,,2800000.0,3500000.0,GBP,Oil Painting
+Pablo Picasso,,2021-06-29T23:00:00,,2741391.931,sotheby's,,oil,1.0,65.0,54.5,,,,,,1800000.0,2500000.0,GBP,Oil Painting
+Pablo Picasso,,2021-06-29T23:00:00,,13032437.34,sotheby's,,oil,1.0,115.9,89.2,,,,,,8000000.0,12000000.0,GBP,Oil Painting
+Pablo Picasso,,2021-06-18T20:30:00,,14028846.71,sotheby's,,oil,1.0,116.0,89.0,,,,,,93000000.0,143000000.0,HKD,Oil Painting
+Pablo Picasso,,2021-05-13T09:30:00,,20946000.0,sotheby's,,Oil,1.0,91.7,72.9,,,,,,14000000.0,18000000.0,USD,Oil Painting
+Pablo Picasso,,2021-04-18T19:00:00,,18017767.61,sotheby's,,oil,1.0,130.0,97.0,,,,,,100000000.0,150000000.0,HKD,Oil Painting
+Pablo Picasso,,2021-04-14T22:00:00,,45076.7772,sotheby's,,oil,1.0,17.0,28.5,,,,,,2000.0,3000.0,GBP,Oil Painting
+Pablo Picasso,,2021-03-26T02:15:00,,12910414.29,sotheby's,,oil,1.0,130.5,97.3,,,,,,6500000.0,8500000.0,GBP,Oil Painting
+Pablo Picasso,,2020-12-09T09:09:40,,11179500.0,sotheby's,,Oil,1.0,73.0,54.0,,,,,,8000000.0,12000000.0,USD,Oil Painting
+Pablo Picasso,,2020-10-29T10:50:17,,2863500.0,sotheby's,,Oil,1.0,64.8,53.9,,,,,,1000000.0,1500000.0,USD,Oil Painting
+Pablo Picasso,,2020-07-29T05:20:53,,1198030.698,sotheby's,,oil,1.0,27.0,35.0,,,,,,600000.0,800000.0,GBP,Oil Painting
+Pablo Picasso,,2020-06-30T12:09:03,,11198400.0,sotheby's,,Oil,1.0,33.0,46.0,,,,,,9000000.0,12000000.0,USD,Oil Painting
+Pablo Picasso,,2020-06-30T12:09:03,,4820000.0,sotheby's,,Oil,1.0,91.0,73.0,,,,,,4000000.0,6000000.0,USD,Oil Painting
+Pablo Picasso,,2019-11-13T13:59:59,,4700000.0,sotheby's,,Oil,1.0,,,,,,,,4000000.0,6000000.0,USD,Oil Painting
+Pablo Picasso,,2019-11-13T13:59:59,,9945500.0,sotheby's,,Oil,1.0,,,,,,,,12000000.0,18000000.0,USD,Oil Painting
+Pablo Picasso,,2019-10-18T00:30:00,,118226.2875,sotheby's,,oil,1.0,,,,,,,,60000.0,80000.0,EUR,Oil Painting
+Pablo Picasso,,2019-10-17T04:00:00,,1475734.423,sotheby's,,oil,1.0,,,,,,,,1200000.0,1800000.0,EUR,Oil Painting
+Pablo Picasso,,2019-06-20T06:00:00,,9620937.295,sotheby's,,oil,1.0,,,,,,,,5500000.0,7500000.0,GBP,Oil Painting
+Pablo Picasso,,2019-06-21T01:30:00,,2153994.135,sotheby's,,oil,1.0,,,,,,,,1000000.0,1500000.0,GBP,Oil Painting
+Pablo Picasso,,2019-06-20T06:00:00,,1234021.425,sotheby's,,oil,1.0,,,,,,,,1000000.0,1500000.0,GBP,Oil Painting
+Pablo Picasso,,2019-06-20T06:00:00,,1309961.205,sotheby's,,oil,1.0,,,,,,,,600000.0,800000.0,GBP,Oil Painting
+Pablo Picasso,,2019-06-20T06:00:00,,2676877.245,sotheby's,,oil,1.0,,,,,,,,1800000.0,2500000.0,GBP,Oil Painting
+Pablo Picasso,,2019-05-15T11:00:00,,1460000.0,sotheby's,,Oil,1.0,,,,,,,,1500000.0,2000000.0,USD,Oil Painting
+Pablo Picasso,,2019-05-15T11:00:00,,20766000.0,sotheby's,,Oil,1.0,,,,,,,,20000000.0,30000000.0,USD,Oil Painting
+Pablo Picasso,,2019-05-15T11:00:00,,54936000.0,sotheby's,,Oil,1.0,,,,,,,,25000000.0,30000000.0,USD,Oil Painting
+Pablo Picasso,,2019-05-15T11:00:00,,8042900.0,sotheby's,,Oil,1.0,,,,,,,,6500000.0,8500000.0,USD,Oil Painting
+Pablo Picasso,,2019-05-15T11:00:00,,4580000.0,sotheby's,,Oil,1.0,,,,,,,,4000000.0,6000000.0,USD,Oil Painting
+Pablo Picasso,,2019-05-16T06:00:00,,788000.0,sotheby's,,Oil,1.0,,,,,,,,800000.0,1200000.0,USD,Oil Painting
+Pablo Picasso,,2019-02-28T02:30:00,,579343.44,sotheby's,,oil,1.0,,,,,,,,350000.0,450000.0,GBP,Oil Painting
+Pablo Picasso,,2019-02-27T07:00:00,,1451754.285,sotheby's,,oil,1.0,,,,,,,,800000.0,1200000.0,GBP,Oil Painting
+Pablo Picasso,,2019-02-27T07:00:00,,2724525.165,sotheby's,,oil,1.0,,,,,,,,1800000.0,2500000.0,GBP,Oil Painting
+Pablo Picasso,,2018-11-14T07:00:00,,1455000.0,sotheby's,,Oil,1.0,,,,,,,,1400000.0,1800000.0,USD,Oil Painting
+Pablo Picasso,,2018-11-13T13:59:59,,6508500.0,sotheby's,,Oil,1.0,,,,,,,,2000000.0,3000000.0,USD,Oil Painting
+Pablo Picasso,,2018-10-19T04:30:00,,2719458.0,sotheby's,,oil,1.0,,,,,,,,2000000.0,3000000.0,EUR,Oil Painting
+Pablo Picasso,,2018-10-31T01:00:00,,30183.6375,sotheby's,,oil,1.0,,,,,,,,20000.0,30000.0,GBP,Oil Painting
