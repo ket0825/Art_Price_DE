@@ -3,6 +3,11 @@
 
 ## Artist : Pablo Picasso
 ## 작품 상승률
-![alt text](readme/image.png)
+![alt text](./readme/image_oil_average.png)
+![alt text](./readme/image_watercolor_average.png)
+![alt text](./readme/image_drawing_average.png)
+![alt text](./readme/image_gouache_average.png)
+![alt text](./readme/image_print_average.png)
+
 ## 최소 예상 투자 액수
 ## 환금성 순위
